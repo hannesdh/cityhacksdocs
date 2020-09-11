@@ -17,7 +17,7 @@ description: Week 4
 
 * Visit teams & demo day
 
-### Coaches 
+### Coaches
 
 * Guide teams
 * Demo day
@@ -32,6 +32,4 @@ description: Week 4
 * Prepare demo day
 * Prepare pitch
 * Present projects to partners
-
-
 

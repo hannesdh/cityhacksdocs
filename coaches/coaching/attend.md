@@ -18,7 +18,7 @@ You can find the location and calendar on your the website for your country's ed
 Fulltime = 4 days per week  
 Halftime = 2 days per week \(you can also do half days, ... however you like\)
 
-The baseline is; a team of students should never be "alone". There should always be a \(student\) coach _available_ that is up-to-date, and knows the partner they're working for. 
+The baseline is; a team of students should never be "alone". There should always be a \(student\) coach _available_ that is up-to-date, and knows the partner they're working for.
 
 A coach can choose to coach half- or full-time. A half-time coach should be paired with an other half-time coach or student coach — so the **teams will never be** _**coachless**_. Half-time coaches should make sure one of both is always _available_ to the team\(s\), and do their coaching tasks.
 
@@ -29,7 +29,7 @@ You might be there at the same time, or you might be switching tasks. The main i
 * Keep your \(student\) coaches up-to-date about what happened, and make sure there's a hand-over when the other coach is not available \(tasks, problems, progress\). You can do it yourself, or delegate it to your students in a structured way
 * Maintain structure and quality for the team
 
-#### Coaches
+### Coaches
 
 The coaches set out the main structure.
 
@@ -39,7 +39,7 @@ The coaches set out the main structure.
 * Take care of communication \(or delegate to assistant coach when not present\)
 * Be good to the buddy coach :-\)
 
-#### The Student Coaches
+### The Student Coaches
 
 The student coach makes sure that when the coach isn't present, the team has someone to go to. Also, when there's a problem, you can ping-pong with your student coach \(or the coach of the coaches, or other coaches\) to figure out things. You can lean on each other, and learn from each other!
 
@@ -49,7 +49,7 @@ The student coach makes sure that when the coach isn't present, the team has som
 
 ## Can we work remote?
 
-The 2020 edition is fully remote! Occasional \(and fully optional\) gatherings with small groups can occur. 
+The 2020 edition is fully remote! Occasional \(and fully optional\) gatherings with small groups can occur.
 
 ## What do I do when I'm ill?
 

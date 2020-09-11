@@ -24,5 +24,3 @@ Preferably, we have a single point of contact that can make the decisions that n
 
 At the end of osoc, your project will be published under a free and open-source license, compatible with the [Open Source Initiative](https://opensource.org/) and will be showcased at the osoc Demo Day, where students present the final product to you and the broad public. You will receive access to all documents, research, designs and code created at osoc, so that you can share it within your own or with other organisations.
 
-
-

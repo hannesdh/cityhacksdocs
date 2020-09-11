@@ -31,9 +31,3 @@ We do not work on Fridays, weekends or holidays!
 
 Visit [https://online2020.summerofcode.es/practical.html](https://online2020.summerofcode.es/practical.html) and find out more!
 
-
-
-
-
-
-

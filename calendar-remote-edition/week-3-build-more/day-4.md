@@ -47,7 +47,7 @@ The selected teams show demos or give more information, other teams can roam & d
 
 Your job is to make things go _smoooooth_. [Write down who will](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit?usp=sharing).
 
-1. **Go to the breakout room first** to get moderator rights. _Keep it open in your browser tab from the moment the pitch stream starts_ 😁 __
+1. **Go to the breakout room first** to get moderator rights. _Keep it open in your browser tab from the moment the pitch stream starts_ 😁 \_\_
 2. **Mute** visitors _Only people that are presenting or ask questions should have their mics on._
 3. Ask visitors to **write down** questions.
 4. **Read those questions out loud & invite the writer to speak** whenever their question gets addressed, so they can have a conversation.
@@ -100,7 +100,7 @@ _What did we learn? How can we work better as a team?_
 
 ## 15:30 \[team only breakout\] Retro
 
-Create some room for each other to talk about what's good and what could go better. [A 7-minute tutorial](../../how-to-manage-a-team.md#how-to-vent-improve-and-replenish-the-team-with-a-team-retrospective).
+Create some room for each other to talk about what's good and what could go better. [A 7-minute tutorial](../../tutorials/how-to-manage-a-team.md#how-to-vent-improve-and-replenish-the-team-with-a-team-retrospective).
 
 Pick a retrospective:
 

@@ -30,5 +30,3 @@ description: Week 3
 * Present WIP to partners and gather feedback
 * Prepare booth
 
-
-

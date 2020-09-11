@@ -15,5 +15,3 @@ Good luck, ask for help when you need it and offer when you can!
 * [Day 3](day-3.md)
 * [Day 4](day-4.md)
 
-
-

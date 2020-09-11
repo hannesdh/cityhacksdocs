@@ -24,7 +24,7 @@ Time to say goodbye to your team and give each other some feedback... 🥰
 
 Showtime 🤹🏾‍♀️
 
-{% embed url="https://youtu.be/U-QXynv9z4U" %}
+{% embed url="https://youtu.be/U-QXynv9z4U" caption="" %}
 
 ### During the pitches, when your team _is not_ up
 
@@ -59,8 +59,7 @@ Very convenient: you can make sure everyone starts out muted.
 
 ![](../../../.gitbook/assets/screenshot-2020-07-26-at-20.57.35.png)
 
-If someone forgets to mute themselves, you can mute them:  
-
+If someone forgets to mute themselves, you can mute them:
 
 ![If you&apos;re speaking, you can mute everyone &#x1F60F;](../../../.gitbook/assets/screenshot-2020-07-26-at-20.58.13.png)
 
@@ -69,10 +68,6 @@ _Tip: You can already go there when the streaming event starts, so you have the 
 #### Moderating the Questions
 
 How would you approach role division in a break out? How many members of your teams should remain in the break out room? Can it all be done by one person? Like pitching, MC'ing and moderating \(muting people, seeing which relevant questions there are\), showing demo tools answering questions? Seems like a lot to handle
-
-
-
-
 
 **BREAKOUT ROOMS PART 1**  
 15 mins – Switch between the rooms below!

@@ -32,5 +32,3 @@ When your partner does join your Discord channel, it's recommended to create a s
 
 Do inform the coordinators of this decision up front, so we don't have any surprises.
 
-
-

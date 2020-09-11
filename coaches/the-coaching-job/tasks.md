@@ -16,8 +16,6 @@ description: >-
 * [Know your fellow \(student\) coaches](tasks.md#knowing-your-fellow-student-and-assistant-coaches)
 * [Helping out other teams](tasks.md#helping-out-other-teams)
 
-
-
 ### Assemble your team
 
 _Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
@@ -47,7 +45,7 @@ A non-exhaustive list of examples:
 * Will they conduct interviews?
 * How does that feedback roll back to the team?
 
-Go to [How to manage a team](../../how-to-manage-a-team.md) for tips and tricks! Something missing? Let us know.
+Go to [How to manage a team](../../tutorials/how-to-manage-a-team.md) for tips and tricks! Something missing? Let us know.
 
 ### Arbiter of quality
 
@@ -63,11 +61,11 @@ The meetings should be well-prepared \(agenda, demo, questions prepared\), well-
 
 #### Contact
 
-Keep your client up to date, and don't leave them in the dark. A client needs to be able to trust your team, and know what the team is up to. You can communicate every week, every two days or every day, after every big release… depending on what you see fit. 
+Keep your client up to date, and don't leave them in the dark. A client needs to be able to trust your team, and know what the team is up to. You can communicate every week, every two days or every day, after every big release… depending on what you see fit.
 
 You can delegate the communication, but make sure the students run it past you before they send it. Most students do not have a lot of experience communicating in a professional context.
 
-At the end of Osoc, you'll also hand in a big [delivery document](../../how-to-deliver-like-a-pro/) with your students, that contains all the work.
+At the end of Osoc, you'll also hand in a big [delivery document](../../tutorials/how-to-deliver-like-a-pro/) with your students, that contains all the work.
 
 ### Half-time coaches
 

@@ -77,17 +77,15 @@
 
 ## Tutorials
 
----
-
-* [Create Crests](how-to-create-crests.md)
-* [Pitching](pitching/README.md)
-  * [Hackathon pitches](pitching/hackathon-pitches.md)
-  * [How to pitch!](pitching/how-to-pitch.md)
-* [Deliver Like a Pro](how-to-deliver-like-a-pro/README.md)
-  * [Publish a Github Page](how-to-deliver-like-a-pro/publishing-a-github-page.md)
-* [How to manage a team](how-to-manage-a-team.md)
-* [Conduct \(Remote\) Tests and Interviews with Real People](how-to-conduct-remote-tests-and-interviews-with-real-people.md)
-* [Study material](study-material.md)
+* [Create Crests](tutorials/how-to-create-crests.md)
+* [Pitching](tutorials/pitching/README.md)
+  * [Hackathon pitches](tutorials/pitching/hackathon-pitches.md)
+  * [How to pitch!](tutorials/pitching/how-to-pitch.md)
+* [Deliver Like a Pro](tutorials/how-to-deliver-like-a-pro/README.md)
+  * [Publish a Github Page](tutorials/how-to-deliver-like-a-pro/publishing-a-github-page.md)
+* [How to manage a team](tutorials/how-to-manage-a-team.md)
+* [Conduct \(Remote\) Tests and Interviews with Real People](tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+* [Study material](tutorials/study-material.md)
 
 ## Organisers
 

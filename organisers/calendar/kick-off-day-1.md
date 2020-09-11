@@ -48,5 +48,3 @@ Spain: [https://online2020.summerofcode.es/agenda.html](https://online2020.summe
 
 Have delivered the briefing before hand, so the coaches and students can study it!
 
-
-

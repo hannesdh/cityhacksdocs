@@ -29,5 +29,5 @@ Sometimes there are things more important than Open summer of code \(yes, we fin
 
 ## Can we work remote?
 
-The 2020 edition is fully remote! Occasional \(and fully optional\) gatherings with small groups can occur. 
+The 2020 edition is fully remote! Occasional \(and fully optional\) gatherings with small groups can occur.
 

@@ -37,5 +37,3 @@ Information you need:
 * Assign students to projects
 * Create well-balanced teams
 
-
-

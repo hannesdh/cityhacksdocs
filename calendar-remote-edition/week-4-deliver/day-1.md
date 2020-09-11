@@ -20,7 +20,7 @@ It's DELIVERY week, and we all know that everything is...? ON FIRE 🔥!
 
 But before you set stuff on fire, think about what happens after this last week, and especially what happens to your "baby"? Longevity of the project depends on how you define your and team dynamic looking forward.
 
-This workshop will give you input for your [Handover Dossier](../../how-to-deliver-like-a-pro/).
+This workshop will give you input for your [Handover Dossier](../../tutorials/how-to-deliver-like-a-pro/).
 
 ![](../../.gitbook/assets/screenshot-2020-07-26-at-14.58.17.png)
 
@@ -35,8 +35,8 @@ We want to make sure Jitsi will hold up when we are doing the project breakout r
 ### 1. Jitsi stress test + chance to scream
 
 {% hint style="info" %}
-We all meet in 1 [jitsi room](https://meet.openknowledge.be/vent), with our **cams on** and... scream, sob, complain, laugh hysterically, swear, sing – for 1 minute ^^  
-  
+We all meet in 1 [jitsi room](https://meet.openknowledge.be/vent), with our **cams on** and... scream, sob, complain, laugh hysterically, swear, sing – for 1 minute ^^
+
 Don't have a mic or a cam? Come over anyways! Every extra test is a good one 👌
 {% endhint %}
 

@@ -27,5 +27,3 @@ Through the diverse set of participants' skills and expertise at open summer of 
 
 Moreover, if you are searching for some top notch business, design or IT-students to recruit, here’s your chance! If you like how members of your team \(or others\) performed in this 4 week programme, you can decide to make the final call.
 
-
-

@@ -62,10 +62,6 @@ If you have any tips, recommendations or questions; we love to hear from you [in
 
 ![](.gitbook/assets/screenshot-2020-07-01-at-00.07.44.png)
 
-
-
-
-
 ## More questions?
 
 * Organisational questions, contact Dries Van Ransbeeck on discord, or mail [dries@openknowledge.be](mailto:dries@openknowledge.be)

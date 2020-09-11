@@ -58,8 +58,8 @@ You can make sure everyone starts out muted in the settings menu option to preve
 
 #### Manage people's noise
 
-If someone forgets to mute themselves after they've just spoken, you can mute them by clicking the three dots bottom left of their name.  
-  
+If someone forgets to mute themselves after they've just spoken, you can mute them by clicking the three dots bottom left of their name.
+
 However, if one person is speaking, and several other people are noisy, you can mute everyone else but this person.
 
 ![](../../../.gitbook/assets/screenshot-2020-07-26-at-21.02.10.png)

@@ -12,7 +12,7 @@ description: >-
 
 Build what you've defined. Go team!
 
-How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## **09:00 or 10:00** \[client and team\] Client meetings
 

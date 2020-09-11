@@ -20,5 +20,3 @@ Partners are not reimbursed.
 
 Each team gets the same budget. It should be communicated at the start of oSoc to the teams, and a sheet of expenses should be communicated should be shared with the coaches, so they can gather all invoices/expenses and add a picture.
 
-
-

@@ -10,7 +10,7 @@ description: 'Build, test, document and ship again!'
 
 Documentation is essential. Make sure you incorporate user interviews and testing 🔥😍
 
-How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## 09:30 \[optional talk\] Solid by Ruben Verborgh
 
@@ -32,7 +32,7 @@ Ship it real good! Make sure you incorporate user interviews and testing 🔥�
 
 MAKE IT LIKE IT'S DEMO DAY!
 
-Put your one-minute pitch video \(with slides\) in our cloud **by 16:00**: 
+Put your one-minute pitch video \(with slides\) in our cloud **by 16:00**:
 
 [https://cloud.openknowledge.be/s/z4Qc3866rg5MF7K](https://cloud.openknowledge.be/s/z4Qc3866rg5MF7K)
 

@@ -10,15 +10,13 @@ There are three main types of projects:
 
 The client has a clear idea in mind about the end result and the end user of the application. In that case the students will get the ball rolling during osoc.
 
-### Proof of concept 
+### Proof of concept
 
 The client has pretty solid idea, but it still requires some finetuning. The client might be uncertain about the feasibility of a certain idea, concept or solution. In this case the students can provide some clarity by providing a new proof of concept. The students will exercise some creative freedom and will spend some time ideating.
 
 ### Surprise
 
 A client might not have specific guidelines or preferences? They might want the \#osoc experience, but they're not sure about the expected end result. The students can take the lead and surprise the client with their creativity, enthusiasm and skills!
-
-
 
 ## Pairing
 

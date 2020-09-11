@@ -11,8 +11,6 @@ Communication, Front-end, Back-end, Pitching, Project management, Team dynamics 
 
 > _I am a graduate computer science student, I'm a full-stack developer with a more data-oriented background in Machine Learning._
 
-## 
-
 {% hint style="info" %}
 **Student Coach Terencio Agozzino \[rememberYou\#8519\] – rml-io-dashboard**  
 Front-end, Back-end, Native apps, Project management, Scoping, Team dynamics & communication, Brainstorms
@@ -26,8 +24,6 @@ Front-end, Back-end, Native apps, Project management, Scoping, Team dynamics & c
 >
 > [https://rememberyou.github.io/](https://rememberyou.github.io/)
 
-## 
-
 {% hint style="info" %}
 **Student Coach Louis Heeren \[Louis Heeren1380\] – Serendipity-engine**  
 UI design, UX design, Graphic design, Front-end
@@ -37,16 +33,12 @@ UI design, UX design, Graphic design, Front-end
 >   
 > [https://www.behance.net/louisoccida6f8](https://www.behance.net/louisoccida6f8)
 
-## 
-
 {% hint style="info" %}
 **Student Coach Chloë Devriese \[Chloë\#8093\] – Urban Brussels**  
 UI design, UX design, Graphic design, Communication, Front-end, Back-end, Team dynamics & communication
 {% endhint %}
 
 > _I am a graduate Devine and Multimedia and Communication Technology student. I’m a creative developer but I also have a passion for design that is visually pleasing and intuitive. Throughout the years, I've learned a lot from motion graphics to UX/UI till front-end development and in the last year a little bit of back-end. I like to get a taste of everything! My life and work have always been inspired by my admiration for purity, minimalism and a dash of humour. Inspired by fashion, product design and technology. What I like the most is the ability to create something unique, narrative and amazing and how it continues to grow year after year._
-
-## 
 
 {% hint style="info" %}
 **Coach Jonathan Beliën \[jbelien\#3989\] – Urban Brussels**  
@@ -55,9 +47,7 @@ Front-end, Back-end, Maps
 
 > _Full-stack web developer playing with geographical data for 15 years_  
 >   
->  [https://jbelien.be/](https://jbelien.be/)
-
-## 
+> [https://jbelien.be/](https://jbelien.be/)
 
 {% hint style="info" %}
 **Student Coach Josse Van Delm \[JVDproductions\#2186\] – shmdoc**  
@@ -68,11 +58,7 @@ Communication, Back-end, Native apps, Pitching, Project management, Retros, Team
 >
 > _This is my second osoc edition, so I can definitely help you with osoc-coachy stuff like pitches, retro's, brainstorms, ... As a hardware focused engineer I also have some experience with machine learning for image recognition, and of course \(maybe less relevant for osoc\) \(analog/mixed-signal/digital\) hardware design. I have quite a bit of experience with Linux as I use it on a daily basis. With respect to programming languages I'm most experienced in Python and C. So for the rest - to put it like a very wise fellow dev - we can search stackoverflow together._  
 >   
->  [https://github.com/JosseVanDelm](https://github.com/JosseVanDelm)
-
-
-
-## 
+> [https://github.com/JosseVanDelm](https://github.com/JosseVanDelm)
 
 {% hint style="info" %}
 **Student Coach Ismaila Abdoulahi \[auloin\#1601\] – citizen-project-2**  
@@ -83,16 +69,12 @@ Front-end, Back-end, Project management
 >
 > I mainly build web apps. I've worked with technologies such as React, Node.js, MongoDB or GraphQL.
 
-## 
-
 {% hint style="info" %}
 **Student Coach Bert Schoovaerts \[Plan2B\#6495\] – bike data**  
 Back-end, Retros, Scoping, Brainstorms, rubber duckying
 {% endhint %}
 
 > _I am a Master student in Computer science at KU Leuven. My main skills lie in software engineering/architecture. I'm also a pretty good rubber ducky._
-
-## 
 
 {% hint style="info" %}
 **Student Coach Tim Baccaert \[tim\#8080\] – bit-of-trust**  
@@ -113,8 +95,6 @@ Front-end, Back-end, Project management, Retros, Scoping, Brainstorms, Databases
 >
 > [https://github.com/tbaccaer](https://github.com/tbaccaer)
 
-## 
-
 {% hint style="info" %}
 **Student Coach Nawang Tendar \[LT. Future\_Nawang\#5186\] – Simplification-election-procedures**  
 UI design, UX design, Front-end, Back-end, Pitching, Brainstorms
@@ -124,18 +104,14 @@ UI design, UX design, Front-end, Back-end, Pitching, Brainstorms
 >
 > [https://www.nawangtendar.be](https://www.nawangtendar.be)
 
-## 
-
 {% hint style="info" %}
 **Coach Toon Nelissen \[Toon Nelissen\#0050\] – FRIS**  
 Front-end, Back-end, Native apps, Business development, Project management, Team dynamics & communication
 {% endhint %}
 
-> _I'm Toon Nelissen manager and founder of AppSaloon and boardmember of Open Knowledge Belgium. I have broad general knowledge of many types of businesses with skills in coding, making, communications and managing. I'm an advocate for all things 'open' and value transparency highly._ 
+> _I'm Toon Nelissen manager and founder of AppSaloon and boardmember of Open Knowledge Belgium. I have broad general knowledge of many types of businesses with skills in coding, making, communications and managing. I'm an advocate for all things 'open' and value transparency highly._
 >
 > [https://www.appsaloon.be](https://www.appsaloon.be)
-
-## 
 
 {% hint style="info" %}
 **Coach Milena Sonneveld \[Milen a\] – Fitigai**  
@@ -145,8 +121,6 @@ Fablab makes
 > _Hello, I’m Milena. I’m an engineer in energy and I’m a cyclist in the city and on long trips. One of my projects is named Vélo M² and it is a cycle-in cinéma where the spectators pedal to make the movie roll. I’m also at home in the fablab environment and I have animated many workshops with kids. Currently I’m working on a PhD where we look into the repairability of stuff in the context of the right to repair._
 >
 > [https://milenasonneveld.wordpress.com/](https://milenasonneveld.wordpress.com/)
-
-## 
 
 {% hint style="info" %}
 **Coach Ben Abelshausen \[xivk\#6679\] – \#bike-data**  

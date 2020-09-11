@@ -16,7 +16,7 @@ _Do apply the rule of π!_
 
 ## 11:00 \[coaches and student coaches only\] Optional Fika
 
-Talk about what's been going on your team; the good and the bad. 
+Talk about what's been going on your team; the good and the bad.
 
 Tell us:
 
@@ -24,7 +24,7 @@ Tell us:
 * What is not going well in the team?
 * What is going well in the team?
 
-{% embed url="https://meet.openknowledge.be/fika" %}
+{% embed url="https://meet.openknowledge.be/fika" caption="" %}
 
 ## 11:30 \[optional workshop\] Intro to Lottie by Niels
 

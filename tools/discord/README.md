@@ -14,5 +14,3 @@ Discord also has an [iOS app](https://apps.apple.com/us/app/discord/id985746746)
 
 Once you have your account and application ready - [join the \#osoc20 server](https://discord.gg/PJrDvcb).
 
-
-

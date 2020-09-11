@@ -18,11 +18,11 @@ The minimum amount of students in a team is three. At least one of them should b
 
 ### Coaches
 
-The baseline is; a team of students should never be "alone". There should always be a coach _available_ that is up-to-date, and knows the partner they're working for. 
+The baseline is; a team of students should never be "alone". There should always be a coach _available_ that is up-to-date, and knows the partner they're working for.
 
 A coach can choose to coach half- or full-time. A half-time coach should be paired with an other half-time coach — so the **teams will never be coachless**. Half-time coaches should make sure one of both is always _available_ to the team\(s\).
 
-### Availability 
+### Availability
 
 Availability means being there for key moments, when the team needs you.
 
@@ -49,8 +49,4 @@ Depending on the size of the team and how hard the project is, a coach can handl
 * **Scope** Think a website, maybe with an integration with a fixed design. A project that is well-defined or easy to scope along the way.
 * **Size** Minimum three students
 * **Coach** There is always a coach _available_ to manage the smaller team and the client, but probably won't be occupied the entire time. This means it is possible that a coach \(or two half-time coaches\) is managing two small projects at the same time. This does mean that this coach is _available_ for both teams for their tasks — see "[The job](../coaches/the-coaching-job/)" under coaches.
-
-
-
-
 

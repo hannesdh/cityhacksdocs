@@ -19,7 +19,7 @@ In the morning we will show off all the pitches created by the teams during thei
 * what you liked about each pitch
 * what needs work for each pitch \(constructive feedback!\)
 
-{% embed url="https://forms.gle/YVH394fJhK6pjiePA" %}
+{% embed url="https://forms.gle/YVH394fJhK6pjiePA" caption="" %}
 
 ![Vote - Love - Rate](../../.gitbook/assets/screenshot-2020-07-08-at-21.21.27.png)
 

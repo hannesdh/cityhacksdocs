@@ -32,7 +32,3 @@ Spain: [https://2019.summerofcode.es/whoweare.html](https://2019.summerofcode.es
 
 ![Example of day 4](../../.gitbook/assets/screenshot-2019-06-17-at-22.02.26.png)
 
-
-
-
-

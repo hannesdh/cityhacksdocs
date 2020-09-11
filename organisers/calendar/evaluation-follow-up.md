@@ -24,5 +24,3 @@ description: After oSoc
 * Debrief
 * Further actions depending on deliverables \(optional: send invoice for remaining 50%\)
 
-
-

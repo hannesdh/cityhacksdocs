@@ -6,11 +6,11 @@ description: 'Deliver like a professional: a well-documented, stable project.'
 
 ![](../../.gitbook/assets/screenshot-2020-07-26-at-15.09.35.png)
 
-## 09:00 \[team only\] Documentation, site, handover document, ... 
+## 09:00 \[team only\] Documentation, site, handover document, ...
 
-Make sure you have everything in your team folder, described in the handover document. 
+Make sure you have everything in your team folder, described in the handover document.
 
-How to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro/)\]!
+How to deliver like a pro \[[tutorial](../../tutorials/how-to-deliver-like-a-pro/)\]!
 
 ## 11:00 \[coaches only\] Coach retro
 
@@ -28,7 +28,7 @@ Write a professional email to thank everyone, with a link to the deliverables fo
 
 ## 16:00 \[HARD DEADLINE\] Send your handover mail to the client!
 
-Check out how to [deliver like a pro 😎](../../how-to-deliver-like-a-pro/)
+Check out how to [deliver like a pro 😎](../../tutorials/how-to-deliver-like-a-pro/)
 
 ## 17:00 have a nice day 🥳
 

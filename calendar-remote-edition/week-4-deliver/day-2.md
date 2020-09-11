@@ -41,13 +41,13 @@ Your pitch should include:
 
 ![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
-## 13:00 \[team only\] Documentation, site, handover document, ... 
+## 13:00 \[team only\] Documentation, site, handover document, ...
 
-Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro/)\]!
+Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../tutorials/how-to-deliver-like-a-pro/)\]!
 
 ## 13:30 \[hosts and interviewees\] Run through + mic check with Miet + Stress test 2
 
-To make sure the demo day will go _smoooooth_ 
+To make sure the demo day will go _smoooooth_
 
 ![](../../.gitbook/assets/screenshot-2020-07-28-at-09.50.45.png)
 

@@ -6,7 +6,7 @@ description: >-
 
 # Interviews
 
-### What?
+## What?
 
 {% hint style="info" %}
 We give short interviews to give people some insight on what went down during open summer of code, and what the atmosphere is like.
@@ -14,17 +14,17 @@ We give short interviews to give people some insight on what went down during op
 On the other hand, it gives them some time to process the amazing pitches they just saw!
 {% endhint %}
 
-### What will happen?
+## What will happen?
 
 We show 3 pitches, then we have an interview with a 3 team representatives for each of those teams! [Sequence found here](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit?usp=sharing).
 
-### What does the team have to do?
+## What does the team have to do?
 
 1. Decide who is going to be the team representative that will answer that question?
 2. Test that person's mic and surroundings \(we need good sound, and not too much background noise!\)
 3. Check out the extra [Extra Pitch and Interview Tips](the-pitch.md) to reassure quality 👌
 
-### What does the team representative do?
+## What does the team representative do?
 
 Hurrah, you're selected as the team representative!
 

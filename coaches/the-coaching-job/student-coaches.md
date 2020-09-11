@@ -46,9 +46,3 @@ If you have the time, try to make it to the [Fika](https://en.wikipedia.org/wiki
 
 You embody the osoc values and code of conduct. Try to suggest open solutions wherever possible and pragmatic, and be critical of which approach you take to tackle a problem with your team. If you see or hear anything that is considered unwelcome at osoc \(as described in the code of conduct\), please let us know.
 
-
-
-
-
-
-

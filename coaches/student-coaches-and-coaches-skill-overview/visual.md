@@ -13,16 +13,12 @@ UI design, UX design, Graphic design, Front-end
 >   
 > [https://www.behance.net/louisoccida6f8](https://www.behance.net/louisoccida6f8)
 
-## 
-
 {% hint style="info" %}
 **Student Coach Chloë Devriese \[Chloë\#8093\] – Urban Brussels**  
 UI design, UX design, Graphic design, Communication, Front-end, Back-end, Team dynamics & communication
 {% endhint %}
 
 > _I am a graduate Devine and Multimedia and Communication Technology student. I’m a creative developer but I also have a passion for design that is visually pleasing and intuitive. Throughout the years, I've learned a lot from motion graphics to UX/UI till front-end development and in the last year a little bit of back-end. I like to get a taste of everything! My life and work have always been inspired by my admiration for purity, minimalism and a dash of humour. Inspired by fashion, product design and technology. What I like the most is the ability to create something unique, narrative and amazing and how it continues to grow year after year._
-
-## 
 
 {% hint style="info" %}
 **Student Coach Marie Devos \[Marie Devos\] – job-match**  
@@ -33,10 +29,6 @@ UI design, UX design, Graphic design, Videography, Illustrations, motion graphic
 >
 > [https://mariedevos.myportfolio.com/](https://mariedevos.myportfolio.com/)
 
-## 
-
-## 
-
 {% hint style="info" %}
 **Student Coach Inti Valderas Caro \[Valderas\#1429\] – bit-of-trust**  
 UI design, UX design, Graphic design, Videography, Front-end, Pitching, Project management, Retros
@@ -45,8 +37,6 @@ UI design, UX design, Graphic design, Videography, Front-end, Pitching, Project 
 > _I'm a master student Interaction Design at LUCA School of Arts. I've been a freelancer for 4 years. I help small businesses digitize, optimize and automate. At school I experiment with newer technologies like VR, AR, VUI. I also like experimenting with Arduino to create some hardware thingies!_
 >
 > \_\_[_https://valderas.be/_](https://valderas.be/)\_\_
-
-## 
 
 {% hint style="info" %}
 **Student Coach Alex Vandoren \[Zenigame\#1305\] – bit-of-trust**  
@@ -57,8 +47,6 @@ UX design, Front-end, Project management, Brainstorms
 
 \_\_
 
-## 
-
 {% hint style="info" %}
 **Student Coach Nawang Tendar \[LT. Future\_Nawang\#5186\] – Simplification-election-procedures**  
 UI design, UX design, Front-end, Back-end, Pitching, Brainstorms
@@ -67,8 +55,6 @@ UI design, UX design, Front-end, Back-end, Pitching, Brainstorms
 > I'm bachelor in New Media Development with the skill of Full Stack Developer & UI/UX design. But I do enjoy front-end a lot more, especially with React.js.
 >
 > [https://www.nawangtendar.be](https://www.nawangtendar.be)
-
-## 
 
 {% hint style="info" %}
 **Coach Miet Claes \[Miet\#7556\] – Coordination team**  

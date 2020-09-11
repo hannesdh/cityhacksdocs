@@ -15,7 +15,7 @@ Welcome to open summer of code!
 * What’s [the code of conduct](../../code-of-conduct.md)?
 * How does [osoc work](../../way-of-work/)?
 * Calendar overview
-* Deliverables \[[tutorial](../../how-to-deliver-like-a-pro/)\]
+* Deliverables \[[tutorial](../../tutorials/how-to-deliver-like-a-pro/)\]
 
 ## **10:00 \[team only breakout\] Get to know your team**
 
@@ -48,7 +48,7 @@ Prepare to introduce yourselves to the other teams!
 
 * Think of a **team name** that reflects your members and project
   * Add it to the[ project descriptions](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit#gid=0)
-* Create a **crest** together \[[Find out how](../../how-to-create-crests.md)\]
+* Create a **crest** together \[[Find out how](../../tutorials/how-to-create-crests.md)\]
   * Share the crest in the ["crests" folder](https://cloud.openknowledge.be/s/i8FjdnJc3FjkjN8), name it after your project and team name, like so: _project-name-team-name_
 * Send over **a picture** of each team member \(take a selfie with students and coaches\)
   * Add it here in the [team pictures](https://cloud.openknowledge.be/s/J3gixDwZ5knfsqj) folder
@@ -66,9 +66,5 @@ Prepare to introduce yourselves to the other teams!
 
 Enjoy watching the other teams!
 
-
-
 ## 17:00 have a nice day 🥳
-
-
 

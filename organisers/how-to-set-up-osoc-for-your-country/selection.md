@@ -20,9 +20,7 @@ description: 'How to select the right partners, coaches and students'
     * Have first-timers participate as assistant coaches.
 * Brief first-time coaches
 
-
-
-### Availability 
+### Availability
 
 Availability means being there for key moments, when the team needs a coach. Depending on the size of the team and how hard the project is, a coach can handle one or two teams.
 
@@ -42,6 +40,4 @@ Availability means being there for key moments, when the team needs a coach. Dep
 
 * Select students \(with coaches\) based on CV and/or motivational letter
 * Call the ones you're uncertain of
-
-
 

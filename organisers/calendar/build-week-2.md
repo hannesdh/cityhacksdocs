@@ -30,5 +30,3 @@ description: Week 2
 * Prepare booth
 * User test
 
-
-

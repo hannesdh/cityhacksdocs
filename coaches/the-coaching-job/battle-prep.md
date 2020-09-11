@@ -59,8 +59,6 @@ Osoc tutorials:
 
 {% embed url="https://youtu.be/sLRmaIuwtHQ" caption="How to project manage" %}
 
-
-
 ## Decide on hand-over when you're not there
 
 When you're not present, the other coach or your student coaches need to know what to do. Decide on how you're going to do that. Some possibilities:
@@ -73,11 +71,11 @@ Need ideas? Drop a line in the discord coaches channel!
 
 ## Pitch the project
 
-The  coaches will present the project in their Discord project channels once all students are in the channel. The coach should also pitch the project on the first day to their students when they figure out what the project is about \([see calendar](../../calendar-remote-edition/)\). 
+The coaches will present the project in their Discord project channels once all students are in the channel. The coach should also pitch the project on the first day to their students when they figure out what the project is about \([see calendar](../../calendar-remote-edition/)\).
 
 ## Go through the deliverables document
 
-[About the deliverables \[tutorial\]](../../how-to-deliver-like-a-pro/)
+[About the deliverables \[tutorial\]](../../tutorials/how-to-deliver-like-a-pro/)
 
 You can do this together or separately, and discuss if you still have questions beforehand. Ask the organisation to clarify if needed!
 

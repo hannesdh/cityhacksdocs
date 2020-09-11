@@ -16,7 +16,7 @@ Let's go over the week together
 
 Build what you've defined. Go team!
 
-How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## 10:00 \[optional talk\] Open Street Map by Pieter Vander Vennet
 
@@ -35,8 +35,8 @@ Build what you've defined. Go team!
 Marijn talks about how to vlog: how to film and create nice content + montage!
 
 {% hint style="info" %}
-The entire team can't attend? Don't worry! You can always watch this talk after work with some 🍿🥤 on our YouTube account.  
-  
+The entire team can't attend? Don't worry! You can always watch this talk after work with some 🍿🥤 on our YouTube account.
+
 Have one team member attend so they can ask questions if needed.
 {% endhint %}
 

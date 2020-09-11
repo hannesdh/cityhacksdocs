@@ -34,7 +34,7 @@ Tell us:
 * What is not going well in the team?
 * What is going well in the team?
 
-{% embed url="https://meet.openknowledge.be/fika" %}
+{% embed url="https://meet.openknowledge.be/fika" caption="" %}
 
 ## 13:00 \[team only\] Build, test, document, ship
 
@@ -42,7 +42,7 @@ Build what you've defined. Go team!
 
 Need help shipping? Please reach out to your coach and help channel!
 
-How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## 17:00 have a nice day 🥳
 
