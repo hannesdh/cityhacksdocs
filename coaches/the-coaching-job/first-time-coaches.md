@@ -1,21 +1,29 @@
 ---
-description: First-time coaches or coaches that want some assistance along the way!
+description: Eerste keer coach op Cityhacks of hulp nodig?
 ---
 
-# First-time coaches
+# S.O.S. voor coaches
 
-Everybody needs to start somewhere. Not every coach knows what to do from the start, and this is why we have an assistant coach program. We assist you with [coaching tasks](./). This includes:
+### Sharing is caring
 
-* Scoping sessions \(SLIP\)
-* Team assembly
-* Creating structure for the team
+In de eerste plaats ben je op Cityhacks een coach. Maar misschien heb je nog andere eigenschappen? Bijvoorbeeld designer, marketeer, copywriter, programmeur, sport-expert, tekenaar of yogi.
+
+Andere teams kunnen mogelijks jouw expertise gebruiken om verder te geraken. Of omgekeerd. Cityhacks draait om het delen en leren van elkaar. Roep als coach hulp in en help waar nodig. Spreek tijdens rustigere momenten gerust andere coaches aan op Discord voor een koffieklets!
+
+### S.O.S.
+
+Iedereen moet ergens starten. Niet ieder proces loopt even gesmeerd. Heb je hulp nodig? Aarzel niet en roep onze hulp in bij problemen zoals:
+
+* Brainstormfase
+* Taken verdelen
+* Structuur creëren voor het team
   * Standups
-  * Conducting retrospects
   * Workflow
+* Tips van expertise in het Cityhacks-coaches team : wie kan ons helpen?
 * "Team crisis"
-* etc.
+* ...
 
-In Belgium, you have a coach of coaches to help you out, in Spain — please contact your organisation.
+Ping Hannes op Discord of mail naar hannes@nerdlab.be!
 
-Feel free to reach out if you need some more information! Ping Miet on Discord, or mail[ miet@openknowledge.be](mailto:miet@openknowledge.be).
+### 
 

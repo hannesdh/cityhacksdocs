@@ -1,5 +1,5 @@
 ---
-description: What is expected of a coach.
+description: Wat wordt verwacht van jou als coach
 ---
 
 # The Coaching Job
@@ -10,16 +10,46 @@ description: What is expected of a coach.
 >   
 > — Rutger Bevers
 
-## What will I be doing?
+## Jouw taken als coach
 
-As coach you will be guiding a diverse team of students through the project development process. Your students have different skills and expertise, and each project is different. **Your role is to facilitate interaction within your team and between your team and partners**
+Als coach zal je een divers team van studenten doorheen het ontwikkelingsproces van een proof of concept loodsen. Jouw studenten hebben verschillende vaardigheden en kennis. Meestal zijn de groepen multidisciplinair samengesteld en kennen de studenten elkaar nog niet allemaal. **Jouw rol als coach is de interactie in je team en tussen de teamleden, en de 'opdrachtgever' te faciliteren**. 
 
-* Have discussions with your project partner to establish a clear vision of the specific open innovation project.
-* You will endorse the desired student roles \(web development, design, business or communication\) essential to turning the partners idea into real-world products and services.
-* You'll outline a plan for action to facilitate students' progress throughout the one-month project. You'll be providing structure and guidance for the students to help them flourish and do a good job.
-* In the end, your team will present the finished product to the partnering organisation and the wide public.
+Gezien het de eerste remote editie is van Cityhacks, zal het als coach ook wat experimenteren zijn hoe je de groep opvolgt. Het is perfect mogelijk dat je team je niet non-stop nodig heeft. Hoe wij jou rol als coach zien:
 
-Experience in coaching and team-coordination are not required but considered an asset. What counts most is a positive mindset and the motivation to have an awesome summer!
+**Jij bent:**
 
-Every coach has their own style. You're free to experiment — as long as you're motivating students to do their best, and keeping your client happy.
+* het vaste aanspreekpunt voor het team
+* de procesbegeleider 
+* de takenverdeler 
+* de structureerder en de timemanager
+* de motivator
+* de kritische noot:
+  * is er een markt voor?
+  * wie is de doelgroep?
+  * gebruiksvriendelijk?
+* de pitch-inspirator
+
+**Hoe kan je dat doen?**
+
+* Organiseer een gesprek met de 'opdrachtgever' \(= stad Brugge\) om hun vraag duidelijk te krijgen en om te onderzoeken of jullie concept een oplossing kan bieden.
+* Verdeel de taken in het team zodat elk teamlid zijn vaardigheden en kennis optimaal kan inzetten
+* Je bepaalt een aantal 'deadlines' gedurende de dag zodat je team binnen de vooropgestelde tijd een proof of concept kan voorleggen.
+* Je monitort dat iedereen een taak heeft
+* Je oefent samen met de groep de demo en pitch
+
+Ervaring in coaching en team-coördinatie is zeker geen must. Wat telt is een positieve mindset en de motivatie om er een inspirerende en toffe Cityhacks van te maken!
+
+Iedere coach heeft zn eigen stijl. Je bent vrij om te experimenteren zolang je studenten gemotiveerd blijven.
+
+
+
+
+
+
+
+
+
+
+
+## 
 

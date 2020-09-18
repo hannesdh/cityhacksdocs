@@ -1,17 +1,19 @@
 ---
 description: >-
-  During the month of July, teams of highly motivated students bring innovative
-  projects to life together with the help of experienced coaches, for wonderful
-  organisations.
+  Op vrijdag 13 november 2020 brengen teams van gemotiveerde studenten
+  innovatieve projecten tot leven die de Bruggelingen moeten aanzetten tot sport
+  en bewegen. Dit met de hulp van ervaren coaches.
 ---
 
-# Welcome to osoc!
+# Welkom op Cityhacks!
 
 ![You made it, we&apos;re so happy you are here!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43%20%281%29.png)
 
-This wiki has been created as a _guideline_ for participants of osoc: students, coaches, organisations and volunteers.
 
-## What everybody should know before we start; students, coaches and clients alike!
+
+Deze wiki is gemaakt als gids voor de deelnemers aan Cityhacks: studenten, coaches, docenten, ....
+
+## Wat iedereen moet weten voordat we starten aan Cityhacks!
 
 * [What we are like: the Code of Conduct](code-of-conduct.md)
 * [How we work: The Osoc Way of Work & Play](way-of-work/)
@@ -31,7 +33,7 @@ Oof, you're in for a treat! We are super excited to meet you on 6 July...
 * If you have any practical questions, head over to [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md) and [Salary & Reimbursements](students/reimbursements.md)
 * Wondering what you'll be doing?
   * Get a broad idea at [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md)
-  * Go to the [calendar](calendar-remote-edition/) to get a more detailed view of what we'll do do 
+  * Go to the [calendar](programma-remote-edition/) to get a more detailed view of what we'll do do 
 
 See you soon!
 
@@ -43,12 +45,12 @@ Woah, we're so glad we can count on you and your expertise!
 
 * More information about what you'll be doing:
   * To get a broad idea, go to [Soft Skills & Expectations](coaches/the-coaching-job/soft-skills-and-expectations.md).
-  * A more detailed overview you can find in [Tasks](coaches/the-coaching-job/tasks.md) and [How to work with partners](coaches/partners.md)
-  * And if you want to know what will happen day-by-day go to [calendar](calendar-remote-edition/).
+  * A more detailed overview you can find in [Tasks](coaches/the-coaching-job/tasks.md) and [How to work with partners](partners/partners-1.md)
+  * And if you want to know what will happen day-by-day go to [calendar](programma-remote-edition/).
   * Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaches/the-coaching-job/battle-prep.md)\*\*\*\*
-* First time, or student coach? Visit [this page for first-time coaches](coaches/the-coaching-job/first-time-coaches.md) or [this page for student coaches](coaches/the-coaching-job/student-coaches.md)
+* First time, or student coach? Visit [this page for first-time coaches](coaches/the-coaching-job/first-time-coaches.md) or [this page for student coaches]()
 
-Get your practical information at [Practical: When, where, sick days, ...](coaches/coaching/attend.md) and [Salary and reimbursements](coaches/salary-and-reimbursements.md).
+Get your practical information at [Practical: When, where, sick days, ...](coaches/attend/) and [Salary and reimbursements](coaches/salary-and-reimbursements.md).
 
 Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 
