@@ -7,7 +7,7 @@ description: >-
 
 # Welkom op Cityhacks!
 
-![You made it, we&apos;re so happy you are here!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43%20%281%29.png)
+![Je bent er!  ](.gitbook/assets/screenshot-2020-06-18-at-14.41.43%20%281%29.png)
 
 
 
@@ -30,9 +30,9 @@ You're always free to break the rules; as long as you're trying to make it a bet
 
 Oof, you're in for a treat! We are super excited to meet you on 6 July...
 
-* If you have any practical questions, head over to [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md) and [Salary & Reimbursements](students/reimbursements.md)
+* If you have any practical questions, head over to [Practical: When, where, how long, food, sick days, ...]() and [Salary & Reimbursements]()
 * Wondering what you'll be doing?
-  * Get a broad idea at [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md)
+  * Get a broad idea at [Practical: When, where, how long, food, sick days, ...]()
   * Go to the [calendar](programma-remote-edition/) to get a more detailed view of what we'll do do 
 
 See you soon!
@@ -50,7 +50,7 @@ Woah, we're so glad we can count on you and your expertise!
   * Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaches/the-coaching-job/battle-prep.md)\*\*\*\*
 * First time, or student coach? Visit [this page for first-time coaches](coaches/the-coaching-job/first-time-coaches.md) or [this page for student coaches]()
 
-Get your practical information at [Practical: When, where, sick days, ...](coaches/attend/) and [Salary and reimbursements](coaches/salary-and-reimbursements.md).
+Get your practical information at [Practical: When, where, sick days, ...](coaches/attend/) and [Salary and reimbursements]().
 
 Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 
@@ -58,7 +58,7 @@ Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info
 
 ### Organisations, partners, clients
 
-Without you, we wouldn't be able to do this! Find more info about what you can expect during osoc at [The Partner's Job](partners/the-partners-job.md).
+Without you, we wouldn't be able to do this! Find more info about what you can expect during osoc at [The Partner's Job]().
 
 If you have any tips, recommendations or questions; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 

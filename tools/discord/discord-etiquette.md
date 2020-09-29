@@ -6,33 +6,25 @@ description: >-
 
 # Discord etiquette
 
-## Add a picture of yourself
+## Profielfoto
 
-During a remote edition, a picture does a lot! To help get to know and recognize each other, we suggest you [add a picture of yourself](https://support.discord.com/hc/en-us/articles/204156688-How-do-I-change-my-avatar-?page=1).
+Tijdens een remote editie, doet een foto veel! Om elkaar te leren kennen en om elkaar te herkennen, vragen we om een duidelijke profielfoto van jezelf te gebruiken. [Hier kan je zien hoe je je profielfoto kan wijzigen](https://support.discord.com/hc/en-us/articles/204156688-How-do-I-change-my-avatar-?page=1). 
 
-If you're already using Discord to engage with other communities, but would rather not have your picture in them, you can make an account for osoc specifically.
+Als je Discord reeds gebruikt in andere communities, en daar liever geen andere profielfoto gebruikt, kan je ervoor kiezen om je profielfoto enkel aan te passen op de Cityhacks-server. 
 
-## Set your nickname to your full name
+## Gebruikersnaam
 
-This makes you easier to recognize, and makes things a little more personal. [You can set different nicknames for different servers](https://help.osoc.be/global/tools/discord/setting-your-nickname) specifically, so this information stays within the osoc server.
+Door je volledige naam \(Voornaam Familienaam\) te gebruiken, ben je herkenbaarder. [Je kan verschillende nicknames gebruiken in verschillende servers](https://help.osoc.be/global/tools/discord/setting-your-nickname). In de Cityhacks server vragen we om je naam als volgt in te stellen: Voornaam Familienaam
 
-## Post in the right channels
+## Post in het juiste channel
 
-Most channels describe what they're for. Post everything related to your specific project in its channel.
+De namen van de channels omschrijven voor welk soort post ze dienen. Er zijn channels voor de volledige groep, en channels exclusief voor je team.
 
-![](../../.gitbook/assets/channel-description.png)
+## Hou de communicatie "safe for work"
 
-## Keep things "safe for work"
+Zoals vermeld in de [Code of Conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct), zijn berichten met een inhoud die geweld, haat, racisme, discriminatie, pornografie, of gelijkaardig, uitdragen, niet welkom in een werk omgeving. Ze hebben dus ook geen plaats op de Cityhacks communicatiekanalen.  
 
-As mentioned in the [Code of Conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct), messages & content that contain violence, hate, racism, nudity, pornography, profanity, gore, or anything else considered unwelcome in a work environment, have no place in the osoc communication channels.
+## Mute je microfoon als je niet spreekt
 
-## Use @ mentions sparingly
-
-Most people have notifications for mentions on. If something isn't urgent or you're not replying to someone's message, use @ sparingly. Discord tends to be open during work, and unnecessary notifications will distract from working flow.
-
-## Mute your microphone when you're not speaking
-
-When in a voice channel - mute your microphone when you're not actively talking. This helps reduce background noises from fans, busy streets, and excited family members or roommates :\).
-
-You can also [enable push to talk](https://support.discord.com/hc/en-us/articles/211376518-Voice-Input-Modes-101-Push-to-Talk-Voice-Activated-?page=2), which makes sure your microphone is only activated when you press a key.
+Wanneer je in een voice channel werkt, mute dan je microfoon wanneer je niet aan het woord bent. Zo verstoren omgevingsgeluiden zoals straatgeluiden, enthousiaste roommates of familieleden, de meeting niet. 
 

@@ -1,8 +1,8 @@
-# Setting your nickname
+# Je gebruikersnaam aanpassen
 
-At Open Summer of Code, we'd like you to set your nickname to your full name \(only for our server\).
+Op de Cityhacks-server gebruiken we onze volledige naam, en dus geen bijnaam.
 
-You can set your name for the \#osoc server specifically, like this:
+Op onderstaande video kan je zien hoe je dit aanpast. 
 
 ![](../../.gitbook/assets/set-name.gif)
 

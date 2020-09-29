@@ -1,4 +1,4 @@
-# 9u30 - \[optionele talk\] Sport Vlaanderen
+# 9u30 - \[optionele talk\] Open street maps
 
 Zoom link
 

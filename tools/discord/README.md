@@ -1,16 +1,20 @@
 ---
-description: How we communicate at Open Summer of Code
+description: Hoe we met elkaar communiceren tijdens Cityhacks
 ---
 
 # Discord
 
-## Getting started
+## Starten
 
-[Create an account](https://discord.com/register) and verify your email address. Feel free to use a Discord account you already have for personal purposes, but note that we ask to use a picture of yourself so that we can all get to know and learn to recognize each other during a remote edition.
+[Maak een account](https://discord.com/register) en kijk je emailadres na. Voeg een foto van jezelf toe als profielfoto waarin je goed herkenbaar bent. Zo herkent je team je meteen als jullie online gaan vergaderen.
 
-You can download the discord desktop app at [https://discord.com/](https://discord.com/). You _can_ use the browser version, but you won't be able to share your screen or enable video, or watch others do it. We strongly recommend you download the desktop app.
+Je profielfoto aanpassen doe je door onderaan links te klikken op het tandwieltje naast je naam \('gebruikersinstellingen'\).
 
-Discord also has an [iOS app](https://apps.apple.com/us/app/discord/id985746746) and [Android app](https://play.google.com/store/apps/details?id=com.discord&hl=en).
+Voel je vrij je persoonlijke Discord te gebruiken als je die al hebt, maar hou er rekening mee dat we vragen om een foto van jezelf te gebruiken als profielfoto, zodat we elkaar leren kennen en herkennen tijdens een remote editie. 
 
-Once you have your account and application ready - [join the \#osoc20 server](https://discord.gg/PJrDvcb).
+Je kan de discord desktop app downloaden via [https://discord.com/](https://discord.com/). Je _kan_ de browser versie gebruiken, maar daarin heb je minder functionaliteiten. We raden dus ten zeerste aan om de desktop app te installeren. 
+
+Discord heeft ook een [iOS app](https://apps.apple.com/us/app/discord/id985746746) en een [Android app](https://play.google.com/store/apps/details?id=com.discord&hl=en).
+
+Van zodra je een account hebt en de app - sluit je aan bij de \#Cityhacks server
 
