@@ -1,4 +1,4 @@
-# de Cityhacks uitdaging
+# De uitdaging
 
 ### **Hoe kunnen we informele sporters 1 ondersteunen?**
 
@@ -22,26 +22,8 @@ Informele sporter? Iedereen die beweegt voor zijn conditie maar daarvoor niet in
    1. Welke infrastructuur wil je gebruiken?
    2. Waar start ik best een nieuwe club?
 
-**Sensoren op sportinnovatiecampus**
-
-* Wifibakjes 
-* Aantal mensen die passeren
-* Hoe snel passeren: fietsen, lopers
-* ingang van verschillende plaatsen
-* Veel data van 2 jaar -&gt; Citymesh
-
-Via Citymesh nog meer data? of ideeën  
+  
 ****
-
-Indeling
-
-* hoe kan je bewegelijkheid meten?
-* hoe kan je sporters ondersteunen?
-
-Hoe meten -&gt; manieren om te meten via Lore  
-****
-
-## 
 
 ## 
 

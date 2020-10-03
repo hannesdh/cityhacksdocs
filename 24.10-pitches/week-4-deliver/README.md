@@ -15,7 +15,7 @@ This week we'll be focusing on [delivering to our clients \[tutorial\]](../../tu
 ### Dive deeper
 
 * [Day 1]()
-* [Day 2](day-2.md)
+* [Day 2](../day-2.md)
 * [Day 3](day-3.md)
 * [Day 4](day-4-demo-day/)
 

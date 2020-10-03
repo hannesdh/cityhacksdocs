@@ -4,7 +4,7 @@ description: >-
   jaar met een remote versie. We zijn razend benieuwd wat dat zal geven!
 ---
 
-# Programma
+# 23.10 - Cityhacs
 
 ### Vrijdag 13 november
 

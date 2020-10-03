@@ -4,7 +4,7 @@ description: Pitch and document!
 
 # Day 2: Pitch pitch pitch
 
-![](../../.gitbook/assets/screenshot-2020-07-26-at-15.09.23.png)
+![](../.gitbook/assets/screenshot-2020-07-26-at-15.09.23.png)
 
 ## 09:00 \[team only\] Create your Demo Day pitch 🥳
 
@@ -39,19 +39,19 @@ Your pitch should include:
 * Who is your client
 * Give us a Call-To-Action, tell us why to come to your project breakout room!
 
-![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
+![](../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
 ## 13:00 \[team only\] Documentation, site, handover document, ...
 
-Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../tutorials/how-to-deliver-like-a-pro/)\]!
+Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../tutorials/how-to-deliver-like-a-pro/)\]!
 
 ## 13:30 \[hosts and interviewees\] Run through + mic check with Miet + Stress test 2
 
 To make sure the demo day will go _smoooooth_
 
-![](../../.gitbook/assets/screenshot-2020-07-28-at-09.50.45.png)
+![](../.gitbook/assets/screenshot-2020-07-28-at-09.50.45.png)
 
-![](../../.gitbook/assets/screenshot-2020-07-28-at-09.50.49.png)
+![](../.gitbook/assets/screenshot-2020-07-28-at-09.50.49.png)
 
 ## \[student coaches only\] Student Coach Retro
 
