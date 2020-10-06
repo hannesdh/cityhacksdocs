@@ -4,11 +4,11 @@ description: "See all pitches, zoom out and prepare for next week \U0001F525"
 
 # Day 4: Pitch & Battle Plan
 
-![](../../../.gitbook/assets/screenshot-2020-07-19-at-19.07.34.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-19-at-19.07.34.png)
 
 ## Prepare for the Pitching Rehearsal: Instructions
 
-![](../../../.gitbook/assets/screenshot-2020-07-22-at-22.11.22.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-22-at-22.11.22.png)
 
 ### During the pitches, when your team _is not_ up
 
@@ -100,7 +100,7 @@ _What did we learn? How can we work better as a team?_
 
 ## 15:30 \[team only breakout\] Retro
 
-Create some room for each other to talk about what's good and what could go better. [A 7-minute tutorial](../../../tutorials/how-to-manage-a-team.md#how-to-vent-improve-and-replenish-the-team-with-a-team-retrospective).
+Create some room for each other to talk about what's good and what could go better. [A 7-minute tutorial](../../../../tutorials/how-to-manage-a-team.md#how-to-vent-improve-and-replenish-the-team-with-a-team-retrospective).
 
 Pick a retrospective:
 

@@ -4,7 +4,7 @@ description: "See all pitches, zoom out and prepare for next week \U0001F525"
 
 # Day 4: Pitch & Battle Plan
 
-![](../../../.gitbook/assets/screenshot-2020-07-15-at-21.54.57.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-15-at-21.54.57.png)
 
 ## 09:00 \[team only breakout\] Plan/scope for next week
 

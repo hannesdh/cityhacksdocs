@@ -4,13 +4,13 @@ description: 'Build, test, document and ship again!'
 
 # Day 3: Build, test, document, ship
 
-![](../.gitbook/assets/screenshot-2020-07-19-at-19.07.28.png)
+![](../../.gitbook/assets/screenshot-2020-07-19-at-19.07.28.png)
 
 ## 09:00 \[team only\] Build, test, document
 
 Documentation is essential. Make sure you incorporate user interviews and testing 🔥😍
 
-How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## 09:30 \[optional talk\] Solid by Ruben Verborgh
 
@@ -43,7 +43,7 @@ Your pitch should include:
 * Who is your client
 * Give us a Call-To-Action!
 
-![](../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
+![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
 ## 17:00 have a nice day 🥳
 

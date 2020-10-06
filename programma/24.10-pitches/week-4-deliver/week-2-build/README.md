@@ -1,6 +1,6 @@
 # Week 2: Build
 
-![Use what you&apos;ve learnt during the hackathon](../../../.gitbook/assets/screenshot-2020-06-29-at-22.41.54.png)
+![Use what you&apos;ve learnt during the hackathon](../../../../.gitbook/assets/screenshot-2020-06-29-at-22.41.54.png)
 
 ## Goal of the Week
 

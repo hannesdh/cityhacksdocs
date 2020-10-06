@@ -33,7 +33,7 @@ Oof, you're in for a treat! We are super excited to meet you on 6 July...
 * If you have any practical questions, head over to [Practical: When, where, how long, food, sick days, ...]() and [Salary & Reimbursements]()
 * Wondering what you'll be doing?
   * Get a broad idea at [Practical: When, where, how long, food, sick days, ...]()
-  * Go to the [calendar](programma-remote-edition/) to get a more detailed view of what we'll do do 
+  * Go to the [calendar](programma/programma-remote-edition/) to get a more detailed view of what we'll do do 
 
 See you soon!
 
@@ -44,13 +44,13 @@ See you soon!
 Woah, we're so glad we can count on you and your expertise!
 
 * More information about what you'll be doing:
-  * To get a broad idea, go to [Soft Skills & Expectations](coaches/the-coaching-job/soft-skills-and-expectations.md).
-  * A more detailed overview you can find in [Tasks](coaches/the-coaching-job/tasks.md) and [How to work with partners](partners/partners-1.md)
-  * And if you want to know what will happen day-by-day go to [calendar](programma-remote-edition/).
-  * Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaches/the-coaching-job/battle-prep.md)\*\*\*\*
-* First time, or student coach? Visit [this page for first-time coaches](coaches/the-coaching-job/first-time-coaches.md) or [this page for student coaches]()
+  * To get a broad idea, go to [Soft Skills & Expectations](coaching/the-coaching-job/soft-skills-and-expectations.md).
+  * A more detailed overview you can find in [Tasks](coaching/the-coaching-job/tasks.md) and [How to work with partners](partners/partners-1.md)
+  * And if you want to know what will happen day-by-day go to [calendar](programma/programma-remote-edition/).
+  * Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaching/the-coaching-job/battle-prep.md)\*\*\*\*
+* First time, or student coach? Visit [this page for first-time coaches](coaching/the-coaching-job/first-time-coaches.md) or [this page for student coaches]()
 
-Get your practical information at [Practical: When, where, sick days, ...](coaches/attend/) and [Salary and reimbursements]().
+Get your practical information at [Practical: When, where, sick days, ...](coaching/attend/) and [Salary and reimbursements]().
 
 Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 

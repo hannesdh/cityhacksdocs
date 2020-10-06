@@ -6,7 +6,7 @@ description: >-
 
 # Day 1: Build, test, document + Learn how to vlog
 
-![](../../../.gitbook/assets/screenshot-2020-07-14-at-09.45.44.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-14-at-09.45.44.png)
 
 ## 09:00 \[all teams\] Week Overview
 
@@ -16,7 +16,7 @@ Let's go over the week together
 
 Build what you've defined. Go team!
 
-How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## 10:00 \[optional talk\] Open Street Map by Pieter Vander Vennet
 

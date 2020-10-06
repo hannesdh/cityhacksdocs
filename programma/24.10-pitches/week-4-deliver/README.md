@@ -1,10 +1,10 @@
 # Week 4: Deliver
 
-![Document, handover, showtime!](../../.gitbook/assets/screenshot-2020-06-29-at-22.42.29.png)
+![Document, handover, showtime!](../../../.gitbook/assets/screenshot-2020-06-29-at-22.42.29.png)
 
 ## Goal of the Week
 
-This week we'll be focusing on [delivering to our clients \[tutorial\]](../../tutorials/how-to-deliver-like-a-pro/) , and showing off what we've made to the world
+This week we'll be focusing on [delivering to our clients \[tutorial\]](../../../tutorials/how-to-deliver-like-a-pro/) , and showing off what we've made to the world
 
 * A working project
 * Well-documented code / designs / communication plans/marketing plans / business plans / ...

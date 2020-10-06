@@ -6,13 +6,13 @@ description: >-
 
 # Day 2: Build, test, document
 
-![](../../../.gitbook/assets/screenshot-2020-07-14-at-09.45.13%20%281%29.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-14-at-09.45.13%20%281%29.png)
 
 ## 09:00 \[team only\] Build, test, document
 
 Build what you've defined. Go team!
 
-How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## **09:00 or 10:00** \[client and team\] Client meetings
 

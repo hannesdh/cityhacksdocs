@@ -4,13 +4,13 @@ description: Ooooooooooooooooooooooaaaaaaaaeeeeeeeeeeeuuuuuuuiiiiiiiii
 
 # Day 4: Demo Day
 
-![](../../../.gitbook/assets/screenshot-2020-07-26-at-19.04.03.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-26-at-19.04.03.png)
 
 ## 09:00 \[team only\] Everything is on fire
 
 If something went terribly wrong... You can still fix it now 😬
 
-![](../../../.gitbook/assets/elmo.gif)
+![](../../../../.gitbook/assets/elmo.gif)
 
 ## Right after the Morning Show: final run-through
 
@@ -49,7 +49,7 @@ During the first breakout room test it was clear this job can get quite heavy; s
 
 Make sure one person in your team is in the breakout room _first –_ you'll see you get moderator rights.
 
-![](../../../.gitbook/assets/screenshot-2020-07-26-at-20.55.15.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-26-at-20.55.15.png)
 
 **Make sure people make themselves recognisable**
 
@@ -57,11 +57,11 @@ Make sure one person in your team is in the breakout room _first –_ you'll see
 
 Very convenient: you can make sure everyone starts out muted.
 
-![](../../../.gitbook/assets/screenshot-2020-07-26-at-20.57.35.png)
+![](../../../../.gitbook/assets/screenshot-2020-07-26-at-20.57.35.png)
 
 If someone forgets to mute themselves, you can mute them:
 
-![If you&apos;re speaking, you can mute everyone &#x1F60F;](../../../.gitbook/assets/screenshot-2020-07-26-at-20.58.13.png)
+![If you&apos;re speaking, you can mute everyone &#x1F60F;](../../../../.gitbook/assets/screenshot-2020-07-26-at-20.58.13.png)
 
 _Tip: You can already go there when the streaming event starts, so you have the chance to chase out the trolls._
 
