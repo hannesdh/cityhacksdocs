@@ -2,7 +2,7 @@
 description: This is how we do it.
 ---
 
-# The osoc Way of Work & Play
+# Way of Work & Play
 
 ## **How We Work**
 
@@ -88,7 +88,7 @@ You are free to use any technology stack that is most suitable for your project 
 
 You are requested to attend osoc 8 hours a day, which you are free to choose.
 
-Make sure you attend planned activities with teams, clients and in group  \(such as streams, meetings and standups\) as communicated in the calendar and by your coach.
+Make sure you attend planned activities with teams, clients and in group \(such as streams, meetings and standups\) as communicated in the calendar and by your coach.
 
 As long as you are capable to deliver at every milestone and you're there when your team or client needs you, you’re safe.
 

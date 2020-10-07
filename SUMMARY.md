@@ -3,6 +3,9 @@
 * [Welkom op Cityhacks!](README.md)
 * [De uitdaging](projects.md)
 * [Code of Conduct](code-of-conduct.md)
+* [Way of Work & Play](way-of-work.md)
+* [Working Together in a Remote Setting](working-together-in-a-remote-setting.md)
+* [Organisatoren](partners-1.md)
 
 ## Programma
 
@@ -23,34 +26,24 @@
   * [21u00 - Sportieve break](programma/programma-remote-edition/21u00-sportieve-break.md)
   * [23u00 - Disney zangstonde](programma/programma-remote-edition/23u00-disney-zangstonde.md)
 * [24.10 - Pitches](programma/24.10-pitches/README.md)
-  * [Day 3: Build, test, document, ship](programma/24.10-pitches/day-3.md)
-  * [Week 4: Deliver](programma/24.10-pitches/week-4-deliver/README.md)
-    * [Week 2: Build](programma/24.10-pitches/week-4-deliver/week-2-build/README.md)
-      * [Day 1: Build, test, document + Learn how to vlog](programma/24.10-pitches/week-4-deliver/week-2-build/day-1.md)
-      * [Day 2: Build, test, document](programma/24.10-pitches/week-4-deliver/week-2-build/day-2.md)
-      * [Day 3: Build, test, document, ship](programma/24.10-pitches/week-4-deliver/week-2-build/day-3.md)
-      * [Day 4: Pitch & Battle Plan](programma/24.10-pitches/week-4-deliver/week-2-build/day-4.md)
-    * [Day 3: Delivery Day](programma/24.10-pitches/week-4-deliver/day-3.md)
-    * [Day 4: Demo Day](programma/24.10-pitches/week-4-deliver/day-4-demo-day/README.md)
-      * [Day 4: Pitch & Battle Plan](programma/24.10-pitches/week-4-deliver/day-4-demo-day/day-4.md)
-      * [Interviews](programma/24.10-pitches/week-4-deliver/day-4-demo-day/interviews.md)
-      * [Hosting](programma/24.10-pitches/week-4-deliver/day-4-demo-day/hosting.md)
-      * [Extra Pitch and Interview Tips](programma/24.10-pitches/week-4-deliver/day-4-demo-day/the-pitch.md)
-  * [Day 2: Pitch pitch pitch](programma/24.10-pitches/day-2.md)
-
----
-
-* [Way of Work & Play](way-of-work/README.md)
-  * [Working Together in a Remote Setting](way-of-work/working-together-in-a-remote-setting.md)
+  * [Extra Pitch and Interview Tips](programma/24.10-pitches/the-pitch.md)
+  * [Hosting](programma/24.10-pitches/hosting.md)
+  * [Interviews](programma/24.10-pitches/interviews.md)
 
 ## Tools & Resources <a id="tools"></a>
 
+* [The Open Data](tools/the-open-data.md)
 * [Discord](tools/discord/README.md)
   * [Discord etiquette](tools/discord/discord-etiquette.md)
   * [Je gebruikersnaam aanpassen](tools/discord/setting-your-nickname.md)
   * [Managing notifications](tools/discord/managing-notifications.md)
   * [Offering and Receiving Help](tools/discord/remote-helping.md)
 * [YouTube](tools/nextcloud.md)
+* [Pitching](tools/pitching/README.md)
+  * [Hackathon pitches](tools/pitching/hackathon-pitches.md)
+  * [How to pitch!](tools/pitching/how-to-pitch.md)
+* [Deliver Like a Pro](tools/how-to-deliver-like-a-pro/README.md)
+  * [Publish a Github Page](tools/how-to-deliver-like-a-pro/publishing-a-github-page.md)
 
 ## Coaching
 
@@ -67,20 +60,5 @@
   * [Motivator, inspirator, coach](coaching/the-coaching-job/soft-skills-and-expectations.md)
   * [S.O.S. voor coaches](coaching/the-coaching-job/first-time-coaches.md)
 * [Jurybeoordeling](coaching/jurybeoordeling.md)
-
-## partners
-
-* [Organisatoren](partners/partners-1.md)
-
-## Tutorials
-
-* [Create Crests](tutorials/how-to-create-crests.md)
-* [Pitching](tutorials/pitching/README.md)
-  * [Hackathon pitches](tutorials/pitching/hackathon-pitches.md)
-  * [How to pitch!](tutorials/pitching/how-to-pitch.md)
-* [Deliver Like a Pro](tutorials/how-to-deliver-like-a-pro/README.md)
-  * [Publish a Github Page](tutorials/how-to-deliver-like-a-pro/publishing-a-github-page.md)
-* [How to manage a team](tutorials/how-to-manage-a-team.md)
-* [Conduct \(Remote\) Tests and Interviews with Real People](tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
-* [Study material](tutorials/study-material.md)
+* [How to manage a team](coaching/how-to-manage-a-team.md)
 

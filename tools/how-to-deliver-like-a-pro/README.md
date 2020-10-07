@@ -95,7 +95,7 @@ Not everything has a guide. But we have many coaches, student coaches and even s
 
 ### The Handover Email
 
-Write a clear, professional email with a link to your deliverables at the end of open summer of code \([see calendar](../../programma/24.10-pitches/week-4-deliver/day-3.md)\) – and a kind goodbye.
+Write a clear, professional email with a link to your deliverables at the end of open summer of code \([see calendar]()\) – and a kind goodbye.
 
 ![](../../.gitbook/assets/screenshot-2020-06-30-at-23.24.00.png)
 

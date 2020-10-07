@@ -23,17 +23,7 @@ description: >-
 
 
 
-### Zaterdag 14 november
-
-#### op Youtube 14/11
-
-* **8u00**         Ontbijt & presentaties afwerken
-* **9u00**         1 minute pitches
-* **9u30**         Break-out rooms
-* **10u45**      Online Stand-up
-* **11u15**      Applaus voor iedereen!
+### 
 
 
-
-* Embed in your own calendar: [https://calendar.google.com/calendar/ical/mietclaes.com\_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com/public/basic.ics) \(or google calendar: [https://calendar.google.com/calendar/b/0?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t ](https://calendar.google.com/calendar/b/0?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t%20)\)
 
