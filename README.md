@@ -15,7 +15,7 @@ Deze wiki is gemaakt als gids voor de deelnemers aan Cityhacks: studenten, coach
 
 ## Wat iedereen moet weten voordat we starten aan Cityhacks!
 
-* [What we are like: the Code of Conduct](code-of-conduct.md)
+* [What we are like: the Code of Conduct]()
 * [How we work: The Osoc Way of Work & Play](way-of-work.md)
 
 You're always free to break the rules; as long as you're trying to make it a better experience!

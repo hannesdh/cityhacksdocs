@@ -2,101 +2,57 @@
 description: This is how we do it.
 ---
 
-# Way of Work & Play
+# De Manier van Werken
 
-## **How We Work**
+## **Zo Werken We**
 
 ![Motivation &amp; Hard Work!](.gitbook/assets/screenshot-2019-06-18-at-15.11.32.png)
 
-### **§2 Gear \(for on-site editions\)**
+### §1. Locatie en werktijden 
 
-1. You bring your own laptop.
-2. You will not forget your battery charger. Ever.
-3. Everything you use or borrow, must be returned in the same state as before.
-4. You will lock your computer when leaving your desk.
+1. Tijdens COVID19 is afstandswerk standaard. Werk vanuit huis of op een locatie die jou een goede werkomgeving biedt. Als er geen geschikte werkplek voor je beschikbaar is, neem dan contact op met je docenten. 
+2. Zorg ervoor dat je geplande activiteiten bijwoont met teams, klanten en in groep \(zoals streams, meetings en standups\) zoals gecommuniceerd in de kalender en door je coach. 
 
-### **§3 Location and work hours**
+### §2 Jouw werk 
 
-#### Remote edition
+1. Je zult je werk zo flink mogelijk doen. Je werk is, tenzij, in enkele zeer zeldzame gevallen anders vermeld, open source en zal worden gedeeld met je buren, dus houd het netjes.
+2.  Projecten vallen onder het copyright van 2020 door Cityhacks, jij bent de auteur. Bovenaan elk bestand zou er een copyright-melding en een auteur-melding moeten staan, voordat deze wordt vastgelegd in de GIT-repository. 
+3. Als je merkt dat u langer dan 1 uur met een probleem vastzit, vraagt ​​u om hulp. 
 
-1. During COVID19 remote will be the default. Work from home or a location that provides you with a good working environment. If there is no suitable working place available to you, please get in touch [dries@openknowledge.be](mailto:dries@openknowledge.be).
-2. We work 8 hours per day. We do not expect you to work more than that.
-3. You are welcome to fulfill these hours between 8am and 7pm.
-4. Make sure you attend planned activities with teams, clients and in group  \(such as streams, meetings and standups\) as communicated in the calendar and by your coach.
+### §3 Je bent een ambassadeur
 
-If you cannot work 8 hours during a certain day, you should mail [dries@openknowledge.be](mailto:dries@openknowledge.be) at least 2 days in advance \(cases of emergency excluded\).
+1. Tijdens het evenement kunnen geïnteresseerde mensen \(bijv. Journalisten, potentiële werkgevers, experts\) de locatie betreden. Als ze naar uw project vragen, stop dan met werken en beantwoord ze zo goed mogelijk. 
+2. Iedereen in je team is zonder uitzondering een ambassadeur van het project \(ja, ook de back-end coder\). Je legt met trots je project uit en traint jezelf om het project te pitchen alsof het je eigen start-up is. 
+3. Het project eindigt niet bij Cityhacks. Je moet proberen je open source-project zo te 'ontwerpen' dat je fier bent als wordt gevraagd om je project later te pitchen, of wanneer je wordt benaderd door journalisten, gevraagd wordt om een ​​evenement bij te wonen, enzovoort.
 
-#### On-site edition
+### §4 What's in a name
 
-1. Clean up your desk before leaving \(aka the clean-desk policy\).
-2. Do not leave anything precious when you are not around.
-3. Respect the building and area. Keep it clean, throw garbage in the bins, etc.
-4. If someone from the partner organisations enters the room and has something to say, you stop all work and listen \(or at least, pretend to\).
-5. You are at least 8 hours a day present at this location. You are welcome to fulfil these hours between 8am and 7pm. If you want to work late let us know. Specific locations might require special badges or a supervisor in order to be able to work past 7pm.
+Je verwijst naar het evenement  als \# cityhacks20 of "Cityhacks", niet als ~~The Cityhacks~~ 
 
-If you cannot work 8 hours during a certain day, you should mail [dries@openknowledge.be](mailto:dries@openknowledge.be) at least 2 days in advance \(cases of emergency excluded\).
+### §5 Blog & Socials
 
-### **§4 Your work**
+1. Je wordt aangemoedigd om een ​​blogpost of vlog te schrijven over het project waar je aan werkt tijdens Cityhacks. Laat ook zeker **Michiel** iets weten dan kan hij het verder delen.
+2. Mensen houden van foto's, wees niet bang om foto's te maken of afbeeldingen toe te voegen aan de blogpost of online berichten.
 
-1. You will document everything. All documentation has to be written in English.
-2. You will do your work to the best of your efforts.
-3. Your work is, unless, in some very rare cases stated otherwise, open source and will be shared with your neighbours, working towards a best-effort cross pollination policy.
-4. Projects are copyrighted 2019 by Open Knowledge Belgium, the author is you. At the top of every file there should be a copyright notice and author notice, before committed to the GIT repository.
-5. If you find yourself stuck with a problem for more than 1 hour, you will ask for help.
-
-### **§5 You’re an ambassador**
-
-1. Only for on-site editions: During the event, interest\(ing\|ed\) people \(e.g., journalists, potential employers, experts\) may enter the location. When they’re asking about your project, cease work and answer them in a best-effort way.
-2. Everyone in your team is an ambassador of the project, without exception \(yes, also the back-end coder\). You will explain your project with pride and will train yourself to pitch the project as if it was your own start-up.
-3. The project doesn’t end at the last day of \#osoc20. You should try to “design” your open source project that it becomes a win for you when you are asked to pitch your project later on, or when you’re contacted by journalists, asked to attend an event, and so forth.
-
-### **§6 Communication**
-
-1. All official communication, documentation and so on has to be done in English. You are free to speak your native language when talking to your neighbour. From the moment you’re in a group with someone who does not speak the same language, you switch to English.
-2. Our communication manager and coaches are responsible for the general management across and between the different projects. When they ask you to do something, you drop all work and help them in a best-effort manner.
-
-### **§7 What's in a name**
-
-1. You must refer to our event as \#osoc20 or “Open summer of code”
-
-### **§8 Blog**
-
-1. You are encouraged to write a blog post or vlog about the project you’re working on during the open Summer of code. Ask our communication manager about it.
-2. As said before, all communication happens in English, therefore also the blog/vlog. We don’t expect complete articles or movies, to explain the progress of your project is enough. Feel free to ask for help from our communication and project managers.
-3. People like pictures, don’t be afraid to take photographs or add some images to the blog post or online messages.
-
-## **Your Freedoms**
+## **Jouw Vrijheden**
 
 ![Freedom for everyone!](.gitbook/assets/screenshot-2019-06-18-at-15.11.25.png)
 
-### **§1 Freedom to change projects**
+### §1 Vrijheid om projecten aan te passen
 
-If you don’t feel at ease in your team, or you feel there’s a serious mismatch with your project, we will try to switch you with someone from another project who has a similar role and skill set. Please send an email to [dries@openknowledge.be](mailto:dries@openknowledge.be) or talk to Astrid in person.
+Als u zich niet op uw gemak voelt in uw team, of als u het gevoel heeft dat er een ernstige mismatch is met uw project, zullen we proberen u over te schakelen naar iemand van een ander project met een vergelijkbare rol en vaardigheden. Neem contact op met Hannes op Discord 
 
-### **§2 Freedom of tools**
+### §2 Vrijheid van instrumenten
 
-Except for Git and SSH, you are free to use any software or hardware stack that you are accustomed to.
+Behalve voor Git en SSH, ben je vrij om elke software- of hardwarestack te gebruiken die je gewend bent. Je bent vrij om elke technologiestack te gebruiken die het meest geschikt is voor uw project
 
-You are free to use any technology stack that is most suitable for your project and client.
+### §3 Vrijheid om te leren
 
-### **§3 Freedom to learn**
+Je kunt niet alles weten. Het staat je vrij om vragen te stellen aan iedereen in een ander project die de beste expertise over dat onderwerp lijkt te hebben. Je bent vrij om de broncode van elk project op te vragen. 
 
-1. You cannot know everything. You are free to ask questions to anyone on another project who seems to have the best expertise on that subject.
-2. You are free to request any project’s source code.
+### §5 Vrijheid van meningsuiting
 
-### **§4 Freedom to work whenever you’re most productive**
+Je bent vrij om te tweeten met de juiste hashtags \#cityhacks20, Facebook, Instagram, Snapchat of een ander sociaal netwerk te gebruiken wanneer je iets over Cityhacks wilt zeggen. Zolang je andere mensen niet lastigvalt of kwetst.
 
-You are requested to attend osoc 8 hours a day, which you are free to choose.
-
-Make sure you attend planned activities with teams, clients and in group \(such as streams, meetings and standups\) as communicated in the calendar and by your coach.
-
-As long as you are capable to deliver at every milestone and you're there when your team or client needs you, you’re safe.
-
-### **§5 Freedom of speech**
-
-You are free to tweet, using the proper hashtags \#osoc20, use Facebook, Instagram, Snapchat, or any other social network, whenever you want to say anything about osoc. As long as you're not harassing or hurting other people. See [Code of Conduct](code-of-conduct.md).
-
-### **§6 Freedom of information**
-
-Open Knowledge Belgium aims to be 100% transparent. Therefore you can request any kind of non-privacy-prone information about the non-profit organisation and the open Summer of code event. Visit [be.okfn.org](http://be.okfn.org/) for more details.
+### \*\*\*\*
 

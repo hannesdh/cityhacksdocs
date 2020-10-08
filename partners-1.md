@@ -1,4 +1,4 @@
-# Organisatoren
+# Wie zit hier achter?
 
 ## stad Brugge
 
@@ -17,4 +17,10 @@ Julie van [Start&GO](https://www.startandgo.be/) werkt vanuit het Ondernemerscen
 Hannes van Nerdlab is een hackathon-freak. Heb je een technische vraag, je weet niet hoe Discord werkt, je groep sputtert wat, ... kortom: met bijna al je vragen kan je terecht bij Hannes.  
 
 
+
+## Open Summer of Code
+
+Moet je zeker eens opzoeken! Het is een soort klanten waar je in de zomer een maand aan werkt in een klein groepje met ander studenten. En je wordt er voor betaald!
+
+We leerden heel veel van hoe zij dingen aanpakken en brachten het in onze praktijk. Extra veel dank aan Miet, Michiel, Pieter en Pieter
 

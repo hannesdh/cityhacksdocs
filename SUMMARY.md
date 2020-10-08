@@ -1,11 +1,10 @@
 # Table of contents
 
 * [Welkom op Cityhacks!](README.md)
-* [De uitdaging](projects.md)
-* [Code of Conduct](code-of-conduct.md)
-* [Way of Work & Play](way-of-work.md)
-* [Working Together in a Remote Setting](working-together-in-a-remote-setting.md)
-* [Organisatoren](partners-1.md)
+* [De Uitdaging](projects.md)
+* [De Manier van Werken](way-of-work.md)
+* [Samenwerken zonder samen te zitten](working-together-in-a-remote-setting.md)
+* [Wie zit hier achter?](partners-1.md)
 
 ## Programma
 
