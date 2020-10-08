@@ -58,6 +58,6 @@
   * [Breng structuur in de dag](coaching/the-coaching-job/breng-structuur-in-de-dag.md)
   * [Motivator, inspirator, coach](coaching/the-coaching-job/soft-skills-and-expectations.md)
   * [S.O.S. voor coaches](coaching/the-coaching-job/first-time-coaches.md)
+  * [Tips & tricks](coaching/the-coaching-job/how-to-manage-a-team.md)
 * [Jurybeoordeling](coaching/jurybeoordeling.md)
-* [How to manage a team](coaching/how-to-manage-a-team.md)
 

@@ -2,7 +2,7 @@
 description: Tips and tricks on how to project manage
 ---
 
-# How to manage a team
+# Tips & tricks
 
 You can choose how to manage your teams, but here are some tips to get started!
 
