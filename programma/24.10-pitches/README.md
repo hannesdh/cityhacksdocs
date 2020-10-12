@@ -1,4 +1,4 @@
-# 24.10 - Pitches
+# 14.11 - Pitches
 
 Zaterdag 14 november
 
