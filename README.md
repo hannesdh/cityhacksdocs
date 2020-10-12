@@ -7,16 +7,17 @@ description: >-
 
 # Welkom op Cityhacks!
 
-![Je bent er!  ](.gitbook/assets/screenshot-2020-06-18-at-14.41.43%20%281%29.png)
+![En daar zijn we super blij om!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43%20%281%29.png)
 
 
 
-Deze wiki is gemaakt als gids voor de deelnemers aan Cityhacks: studenten, coaches, docenten, ....
+Deze wiki is gemaakt als gids voor de deelnemers aan Cityhacks: studenten, coaches, docenten, .... om ook zonder elkaar te zien alles in goede banen te leiden.
 
 ## Wat iedereen moet weten voordat we starten aan Cityhacks!
 
-* [What we are like: the Code of Conduct]()
-* [How we work: The Osoc Way of Work & Play](way-of-work.md)
+* Waaraan we zullen we werken: [De Uitdaging](projects.md)
+* [Wat we kei belangrijk vinden](way-of-work.md)
+* Hoe we dat organizeren [zonder elkaar te zien](working-together-in-a-remote-setting.md)
 
 You're always free to break the rules; as long as you're trying to make it a better experience!
 
