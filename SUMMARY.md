@@ -31,7 +31,7 @@
 
 ## Tools & Resources <a id="tools"></a>
 
-* [The Open Data](tools/the-open-data.md)
+* [Open Data](tools/the-open-data.md)
 * [Discord](tools/discord/README.md)
   * [Discord etiquette](tools/discord/discord-etiquette.md)
   * [Je gebruikersnaam aanpassen](tools/discord/setting-your-nickname.md)
