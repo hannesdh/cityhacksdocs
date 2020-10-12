@@ -23,18 +23,16 @@ You're always free to break the rules; as long as you're trying to make it a bet
 
 * [Student specific information](./#students)
 * [Coaches specific information](./#coaches)
-* [Organisations specific information](./#organisations-partners-clients)
 
-![](.gitbook/assets/screenshot-2020-07-01-at-00.07.53.png)
+
 
 ### Students
 
-Oof, you're in for a treat! We are super excited to meet you on 6 July...
+Ow yeah, het gaat helemaal de max. We kunnen niet wachten om jullie te ontmoeten, online dan.
 
-* If you have any practical questions, head over to [Practical: When, where, how long, food, sick days, ...]() and [Salary & Reimbursements]()
-* Wondering what you'll be doing?
-  * Get a broad idea at [Practical: When, where, how long, food, sick days, ...]()
-  * Go to the [calendar](programma/programma-remote-edition/) to get a more detailed view of what we'll do do 
+* Heb je vragen over wat er precies gaat gebeuren? Duik in het [programma van de Cityhacks](programma/programma-remote-edition/)
+* Wil je Cityhacks winnen of heb je gewoon stress voor het jurymoment? Check alle details [over de Pitches](programma/24.10-pitches/)
+* Aan het worstelen met [Discord](tools/discord/) of op zoek naar de details over de [open data](tools/the-open-data.md)
 
 See you soon!
 
@@ -56,14 +54,6 @@ Get your practical information at [Practical: When, where, sick days, ...](coach
 Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 
 ![](.gitbook/assets/screenshot-2020-07-01-at-00.07.34.png)
-
-### Organisations, partners, clients
-
-Without you, we wouldn't be able to do this! Find more info about what you can expect during osoc at [The Partner's Job]().
-
-If you have any tips, recommendations or questions; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
-
-![](.gitbook/assets/screenshot-2020-07-01-at-00.07.44.png)
 
 ## More questions?
 
