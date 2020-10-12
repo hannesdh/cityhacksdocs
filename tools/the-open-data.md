@@ -20,7 +20,17 @@ Deze dataset bevat alle sportorganisaties die actief zijn in Stad Brugge. Gegeve
 
 Deze dataset bevat alle sportaccommodaties die geheel of gedeeltelijk worden beheerd door Stad Brugge. Deze gegevens zijn afkomstig van de databank 'Sportinfrastructuur Vlaanderen' die beheerd wordt door Sport Vlaanderen.
 
-Gegevens afkomstig van de databank 'Sportinfrastructuur Vlaanderen' die beheerd wordt door Sport Vlaanderen.
+### Zaalreservaties Sportaccommodatie
+
+Deze dataset bevat een overzicht van alle zaalreservaties 
+
+### Wandelnetwerken in Vlaanderen
+
+Toeristisch recreatieve wandelnetwerken in Vlaanderen. Deze gegevens zijn afkomstig van Toerisme Vlaanderen
+
+### Fietsnetwerken in Vlaanderen
+
+Toeristisch recreatieve fietsnetwerken in Vlaanderen gebaseerd op knooppunten. Deze gegevens zijn afkomstig van Toerisme Vlaanderen
 
 
 
