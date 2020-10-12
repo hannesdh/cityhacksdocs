@@ -4,5 +4,5 @@
 * Wat is de bedoeling van vandaag?
 * Wat is onze [the code of conduct]()?
 * Het programma
-* Deliverables \[[tutorial](../../tools/how-to-deliver-like-a-pro/)\]
+* Deliverables \[[tutorial](../../../tools/how-to-deliver-like-a-pro/)\]
 

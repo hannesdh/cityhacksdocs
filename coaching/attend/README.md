@@ -6,7 +6,7 @@ Deze editie van Cityhacks gaat volledig remote door. Het is dus goed mogelijk da
 
 In Discord worden de teams verdeeld, en ontmoet je je team in een afgesloten groep. [Meer info over Discord vind je hier](../../tools/discord/).
 
-Daarnaast voorzien we ook een programma met collectieve bijeenkomsten waar je volgens eigen interesse aan kan deelnemen. Het programma [vind __je hier](../../programma/programma-remote-edition/).
+Daarnaast voorzien we ook een programma met collectieve bijeenkomsten waar je volgens eigen interesse aan kan deelnemen. Het programma [vind __je hier](../coaching/programma-remote-edition/).
 
 ## Wanneer word ik verwacht
 
