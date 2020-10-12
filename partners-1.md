@@ -1,8 +1,14 @@
 # Wie zit hier achter?
 
-## stad Brugge
+## Stad Brugge
 
-uitleg
+Stad Brugge organiseert sinds 2016 jaarlijks een 24u-hackaton, waarbij Brugse bedrijven en studenten de kans krijgen om op basis van open data creatieve en innovatieve digitale toepassingen te ontwikkelen.
+
+De hackathon is een hefboom voor het door de stad ter beschikking stellen van open data en biedt mogelijkheden aan studenten/ondernemingen uit de Brugse regio om applicaties te ontwikkelen. Het draagt bij tot het ondernemersvriendelijke karakter van de stad, het promoten van open data van de stad en de versterking van de verbindende rol van de stad i.k.v. Smart City.
+
+Katleen 
+
+Steven van de Informatica-dienst van Stad Brugge zorgt voor de open data waarmee jullie aan de slag kunnen. Heb je een vraag rond beschikbare [open data ](tools/the-open-data.md)dan kan je bij hem terecht. 
 
 ## TURBO
 
