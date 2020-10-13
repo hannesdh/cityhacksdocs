@@ -17,13 +17,11 @@ Iedereen moet ergens starten. Niet ieder proces loopt even gesmeerd. Heb je hulp
 * Brainstormfase
 * Taken verdelen
 * Structuur creëren voor het team
-  * Standups
-  * Workflow
 * Tips van expertise in het Cityhacks-coaches team : wie kan ons helpen?
 * "Team crisis"
 * ...
 
-Ping Hannes op Discord of mail naar hannes@nerdlab.be!
+Ping Hannes op Discord!
 
 ### 
 

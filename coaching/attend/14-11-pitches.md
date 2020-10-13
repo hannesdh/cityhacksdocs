@@ -8,7 +8,7 @@ description: >-
 
 **datum**         _zaterdag 14 november_
 
-**uur**               _9u00 - 12u30_ 
+**uur**               _9u00 - 11u30_ 
 
-**locatie**         _Youtube_
+**locatie**         _YouTube_
 

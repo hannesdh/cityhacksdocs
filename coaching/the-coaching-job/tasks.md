@@ -21,7 +21,7 @@ Breng in kaart wie welke studierichting volgt en welke taken aan welke personen 
 
 **S.O.S. teamspirit**
 
-Het evenwicht in de groep vinden bij de groep op voorhand is niet zo eenvoudig. Het gebeurt dat een team toch niet zo goed samenwerkt als vooraf gedacht. Dit kan liggen aan vaardigheden, ervaring of karakter. Moest dit het geval zijn, neem contact op met de [organisatoren](first-time-coaches.md) of de andere coaches. Eventueel kunnen teamleden van groep verwisseld worden.
+Het evenwicht in de groep vinden op voorhand is niet zo eenvoudig. Het gebeurt dat een team toch niet zo goed samenwerkt als vooraf gedacht. Dit kan liggen aan vaardigheden, ervaring of karakter. Moest dit het geval zijn, neem contact op met de organisatoren of de andere coaches. Eventueel kunnen teamleden van groep verwisseld worden.
 
 
 
@@ -31,13 +31,7 @@ Het evenwicht in de groep vinden bij de groep op voorhand is niet zo eenvoudig. 
 
 ### 
 
-### Knowing your fellow \(student\) coaches
+### 
 
-You're a coach in the first place. But you'll also have other skills. For instance, you're a designer, a dev, a marketer, a copyright expert or a yogi.
-
-Other teams might need your expertise to move forward; and you might need an other coaches' expertise as well. Osoc is all about sharing and learning from each other. So it's your job to figure out who is on board, to ask for help whenever you or your team needs it — and to help others out. Right now, we don't have a great system for this \(yet\), so grab your fellow coaches for lunch in the first week and get to know each other ;-\)
-
-### Helping out other teams
-
-You have a set of skills other coaches might not have. For instance, a team needs feedback on a poster design and only has dev coaches. Or a designer coach has no clue how to help their team with implementing a map. Use your spare time to get to know the others, and help out a little. Sharing is caring, and you'll get to know some interesting people!
+### 
 

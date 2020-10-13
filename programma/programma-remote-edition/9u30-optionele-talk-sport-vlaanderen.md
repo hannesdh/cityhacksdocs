@@ -1,8 +1,12 @@
+---
+description: '-> Via deze link'
+---
+
 # 9u30 - \[optionele talk\] Open street maps
 
-Zoom link
 
-Kan je op dit moment niet aansluiten, geen probleem. Alles komt na opname op ons Cityhacks-Youtubekanaal.
+
+Kan je op dit moment niet aansluiten, geen probleem. Alles komt na opname op ons Cityhacks-YouTubekanaal.
 
 
 

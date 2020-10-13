@@ -1,3 +1,7 @@
+---
+description: Goed begonnen is half gewonnen!
+---
+
 # Kennismaking met je team
 
 Hieronder een paar tips hoe je dit kan doen, maar doe gerust je eigen ding!

@@ -1,58 +1,52 @@
 ---
-description: Tips and tricks on how to project manage
+description: Tips & tricks om te project- & team- managen
 ---
 
-# Tips & tricks
+# Team-management
 
-You can choose how to manage your teams, but here are some tips to get started!
+Kan je wat tips gebruiken? Lees dan zeker verder! Open Summer of Code maakte een aantal video's bomvol goede tips die we graag met jullie delen.
 
-## How to do a brainstorm session
+## Brainstorm-management
 
-### 3 Brainstorm Ideas + 2 Bonus Adaptions
+### 3 Brainstorm technieken + 2 Bonus Aanpassingen
 
-We go through a couple of ideas to refresh your mind! Feel free to adapt everything to your liking.
+In deze korte video worden diverse brainstormtechnieken uitgelegd. Maak er gerust een mix van en brainstorm op maat van je groep.
 
 {% embed url="https://youtu.be/4-nRJcLktl0" caption="" %}
 
 ### Extended Disney Brainstorm
 
-We walk you through each step of a Disney Brainstorm, \[adapted, there are many versions\] and give you extra tips and tricks.
+In bovenstaande video wordt de Disney Brainstorm aangehaald. Wil je deze techniek graag toepassen? In deze video worden alle stappen uitgelegd en krijg je concrete tips. 
 
 {% embed url="https://www.youtube.com/watch?v=FeWyfK8UbjU&feature=youtu.be" caption="" %}
 
-## How to do a scoping session
+## Organiseer een scoping-sessie
 
-Scoping sessions get everybody aligned on what is going to built, why and when. It's like sprinkling fairy dust on a team.
+Scoping sessies zorgen ervoor dat iedereen met de neuzen in dezelfde richting staat over wat er gebouwd zal worden, waarom en wanneer. Dit zorgt voor 🧚 _fairy dust_ 🧚 over je team.
 
 {% embed url="https://www.youtube.com/watch?v=1jJCPcrTJek" caption="" %}
 
-## How to project manage
+## Project-management
 
-After brainstorms and scoping sessions we need to plan for disaster, divide work and follow up on that work!
+Na de brainstorm en scoping sessie, is het tijd om te plannen, werk te verdelen en dat werk op te volgen!
+
+Bij Open Summer of Code wordt er gedurende een maand gewerkt aan een concept, in Cityhacks is er minder tijd. Maar mogelijks haal je nuttige tips uit deze video.
 
 {% embed url="https://www.youtube.com/watch?v=gYXekYt045Y" caption="" %}
 
-Time stamps
+We zorgen voor een [line-up van de dag](../../programma/programma-remote-edition/), hou deze zeker mee in de gaten. Los daarvan kan het nuttig zijn om met je team een aantal meetings in te lassen. Mogelijke deadlines kunnen zijn:
 
-* [Plan for disaster 00:56](https://www.youtube.com/watch?v=gYXekYt045Y&feature=youtu.be&t=56)
-* [Divide work 03:44](https://www.youtube.com/watch?v=gYXekYt045Y&feature=youtu.be&t=224) 
-  * [Backlog 03:49](https://youtu.be/gYXekYt045Y?t=228)
-  * [User stories 04:22](https://youtu.be/gYXekYt045Y?t=262)
-  * [Tasks 04:45](https://youtu.be/gYXekYt045Y?t=284)
-  * [Estimates 05:14](https://youtu.be/gYXekYt045Y?t=314)
-* [Follow up 06:58](https://youtu.be/gYXekYt045Y?t=418)
-  * [Techniques to follow up 07:25](https://youtu.be/gYXekYt045Y?t=445)
-  * [Standups 09:00](https://youtu.be/gYXekYt045Y?t=540)
-  * [Tools 11:07](https://youtu.be/gYXekYt045Y?t=667)
-  * [Using labels 11:55](https://youtu.be/gYXekYt045Y?t=715)
-  * [How to write clear tasks, issues and bugs 12:33](https://youtu.be/gYXekYt045Y?t=753)
-  * [Assigning people 14:28](https://youtu.be/gYXekYt045Y?t=869)
+* idee
+* marktonderzoek
+* branding \(logo, naam\)
+* prototype
+* pitch
 
-## How To Vent, Improve and Replenish the Team With a Team Retrospective
+## Over ventileren, verbeteren en aanvullen van het team met een Team Retrospective
 
 {% embed url="https://www.youtube.com/watch?v=UiuFR0FI-tA&t=6s" caption="" %}
 
-## More good resources
+## Nog een paar goede hulpmiddelen
 
 {% embed url="http://www.frederikvincx.com/8-sticky-note-walls-keep-team-track/" caption="Great ways to manage your team by our coach Frederik Vincx" %}
 

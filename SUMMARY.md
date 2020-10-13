@@ -9,7 +9,7 @@
 ## Programma
 
 * [28.10 - Datadive](programma/week-3-build-more.md)
-* [13.11 - Cityhacs](programma/programma-remote-edition/README.md)
+* [13.11 - Cityhacks](programma/programma-remote-edition/README.md)
   * [8u45 - Kick-off op Youtube](programma/programma-remote-edition/8u45-kick-off-op-youtube.md)
   * [9u00 - Start](programma/programma-remote-edition/9u00-start.md)
   * [9u30 - \[optionele talk\] Open street maps](programma/programma-remote-edition/9u30-optionele-talk-sport-vlaanderen.md)
@@ -17,7 +17,7 @@
   * [11u00 - Sparren met sportprofessionals](programma/programma-remote-edition/11u00-sparren-met-sportprofessionals.md)
   * [12u00 - Lunch](programma/programma-remote-edition/12u00-lunch.md)
   * [14u00 - Eerste pitch](programma/programma-remote-edition/14u00-eerste-pitch.md)
-  * [14u30 - \[optionele talk\] Leren pitchen](programma/programma-remote-edition/14u30-optionele-talk-leren-pitchen.md)
+  * [14u30 - \[optionele\] talk Leren pitchen](programma/programma-remote-edition/14u30-optionele-talk-leren-pitchen.md)
   * [15u00 - Fika of koffieklets](programma/programma-remote-edition/15u00-fika-of-koffieklets.md)
   * [16u00 - Sportieve break](programma/programma-remote-edition/16u00-sportieve-break.md)
   * [18u00 - Dageinde Stand-up](programma/programma-remote-edition/18u00-dageinde-stand-up.md)
@@ -55,9 +55,8 @@
 * [The Coaching Job](coaching/the-coaching-job/README.md)
   * [Kennismaking met je team](coaching/the-coaching-job/battle-prep.md)
   * [Taakverdeling](coaching/the-coaching-job/tasks.md)
-  * [Breng structuur in de dag](coaching/the-coaching-job/breng-structuur-in-de-dag.md)
+  * [Team-management](coaching/the-coaching-job/how-to-manage-a-team.md)
   * [Motivator, inspirator, coach](coaching/the-coaching-job/soft-skills-and-expectations.md)
   * [S.O.S. voor coaches](coaching/the-coaching-job/first-time-coaches.md)
 * [Jurybeoordeling](coaching/jurybeoordeling.md)
-* [How to manage a team](coaching/how-to-manage-a-team.md)
 

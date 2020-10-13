@@ -1,2 +1,2 @@
-# 14u30 - \[optionele talk\] Leren pitchen
+# 14u30 - \[optionele\] talk Leren pitchen
 
