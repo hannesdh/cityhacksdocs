@@ -53,10 +53,10 @@ Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info
 
 ## More questions?
 
-* Organisatorische vragen, contacteer Michiel Van den Berghe on discord, or mail michiel@derepubliek.be
-* Vragen over de Data, contact Steven on discord, or mail [s](mailto:michiel@openknowledge.be)teven@brugge.be
-* Wat moet ik doen vragen, Contacteer Hannes op discord, of mail hannes@nerdlab.be 
-* Coaching questions, contact Julie on discord or mail julie@ocwest.be
+* Organisatorische vragen, contacteer Michiel Van den Berghe on discord, or mail [michiel@derepubliek.be](mailto:michiel@derepubliek.be)
+* Vragen over de Data, contacteer Steven via discord, of mail [steven.devriendt@brugge.be](mailto:steven.devriendt@brugge.be)
+* Wat moet ik doen vragen, contacteer Hannes op discord, of mail [hannes@nerdlab.be](mailto:hannes@nerdlab.be) 
+* Vragen over coaching? Contacteer Julie via discord of mail [julie.naesens@ocwest.be](mailto:julie.naesens@ocwest.be)
 
 {% hint style="info" %}
 🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
