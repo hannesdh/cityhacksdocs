@@ -23,7 +23,7 @@ You're always free to break the rules; as long as you're trying to make it a bet
 
 ### Studenten
 
-Ow yeah, het gaat helemaal de max. We kunnen niet wachten om jullie te ontmoeten, online dan.
+Ow yeah, het gaat helemaal de max worden. We kunnen niet wachten om jullie te ontmoeten, online dan.
 
 * Heb je vragen over wat er precies gaat gebeuren? Duik in het [programma van de Cityhacks](programma/programma-remote-edition/)
 * Wil je Cityhacks winnen of heb je gewoon stress voor het jurymoment? Check alle details [over de Pitches](programma/24.10-pitches/)

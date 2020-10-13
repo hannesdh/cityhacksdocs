@@ -24,7 +24,7 @@ Link naar de data :
 
 ### Sportaccommodaties
 
-Deze dataset bevat alle sportaccommodaties die geheel of gedeeltelijk worden beheerd door Stad Brugge. Deze gegevens zijn afkomstig van de databank 'Sportinfrastructuur Vlaanderen' die beheerd wordt door Sport Vlaanderen.
+Deze dataset bevat alle sportaccommodaties die geheel of gedeeltelijk worden beheerd door Stad Brugge en hun locatie. Deze gegevens zijn afkomstig van de databank 'Sportinfrastructuur Vlaanderen' die beheerd wordt door Sport Vlaanderen.
 
 Link naar de data:
 
@@ -50,7 +50,7 @@ Toeristisch recreatieve fietsnetwerken in Vlaanderen gebaseerd op knooppunten. D
 
 ### Open Data Stad Brugge
 
-Naast de Open Data in het kader van Café Sport kan je uiteraard ook steeds terecht op de Open Data-pagina van Stad Brugge. 
+Naast de Open Data in het kader van Café Sport kan je uiteraard ook steeds terecht op de Open Data-pagina van Stad Brugge. De datasets zijn beschikbaar per thema en in verschillende open data-formaten. Neem gerust een kijkje !
 
 {% embed url="https://www.brugge.be/opendata" %}
 
