@@ -25,6 +25,7 @@
   * [21u00 - Sportieve break](programma/programma-remote-edition/21u00-sportieve-break.md)
   * [23u00 - Disney zangstonde](programma/programma-remote-edition/23u00-disney-zangstonde.md)
 * [14.11 - Pitches](programma/24.10-pitches/README.md)
+  * [Hackathon pitches](programma/24.10-pitches/hackathon-pitches.md)
   * [Extra Pitch and Interview Tips](programma/24.10-pitches/the-pitch.md)
   * [Hosting](programma/24.10-pitches/hosting.md)
   * [Interviews](programma/24.10-pitches/interviews.md)
@@ -38,9 +39,7 @@
   * [Managing notifications](tools/discord/managing-notifications.md)
   * [Offering and Receiving Help](tools/discord/remote-helping.md)
 * [YouTube](tools/nextcloud.md)
-* [Pitching](tools/pitching/README.md)
-  * [Hackathon pitches](tools/pitching/hackathon-pitches.md)
-  * [How to pitch!](tools/pitching/how-to-pitch.md)
+* [How to pitch!](tools/how-to-pitch.md)
 * [Deliver Like a Pro](tools/how-to-deliver-like-a-pro/README.md)
   * [Publish a Github Page](tools/how-to-deliver-like-a-pro/publishing-a-github-page.md)
 
