@@ -8,5 +8,5 @@ Sluit aan bij je Discord Team channel waar je andere teamleden en je coach op je
 
 Ga [De Uitgaging](../../projects.md) aan door te vertrekken vanuit de [Open Data](../../tools/the-open-data.md). Hoe kunnen jullie een oplossing bieden? 
 
-Kan je hulp gebruiken bij dit brainstormproces? Bekijk dan zeker volgende tips!
+Denk out of the box, the sky is the limit, zoals Elon Musk of The A-Team!
 
