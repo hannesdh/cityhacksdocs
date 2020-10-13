@@ -12,6 +12,8 @@ Met de datasets waarover de stad Brugge beschikt, kan je vele toepassingen beden
 
 Open data laat toe dat iedereen meewerkt aan een betere dienstverlening. Iedereen mag deze gegevens naar wens gebruiken en publiceren, zonder beperkingen op bijvoorbeeld het vlak van copyright, privacy en patenten.
 
+In het kader van Café Sport kunnen we jullie volgende datasets aanbieden:
+
 ### Actieve Sportorganisaties
 
 Deze dataset bevat alle sportorganisaties die actief zijn in Stad Brugge. De gegevens zijn afkomstig van de databank 'Sportinfrastructuur Vlaanderen' die beheerd wordt door Sport Vlaanderen.
