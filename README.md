@@ -21,12 +21,7 @@ Deze wiki is gemaakt als gids voor de deelnemers aan Cityhacks: studenten, coach
 
 You're always free to break the rules; as long as you're trying to make it a better experience!
 
-* [Student specific information](./#students)
-* [Coaches specific information](./#coaches)
-
-
-
-### Students
+### Studenten
 
 Ow yeah, het gaat helemaal de max. We kunnen niet wachten om jullie te ontmoeten, online dan.
 
@@ -40,13 +35,14 @@ See you soon!
 
 ### Coaches
 
-Woah, we're so glad we can count on you and your expertise!
+Woah, We zijn zo blij dat we op jullie mogen rekenen voor deze hackathon!
 
-* More information about what you'll be doing:
-  * To get a broad idea, go to [Soft Skills & Expectations](coaching/the-coaching-job/soft-skills-and-expectations.md).
-  * A more detailed overview you can find in [Tasks](coaching/the-coaching-job/tasks.md) and [How to work with partners](partners-1.md)
-  * And if you want to know what will happen day-by-day go to [calendar](programma/programma-remote-edition/).
-  * Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaching/the-coaching-job/battle-prep.md)\*\*\*\*
+Zie hier, een beetje meer details over wat je tijdens Cityhacks zal tegenknomen:
+
+* To get a broad idea, go to [Soft Skills & Expectations](coaching/the-coaching-job/soft-skills-and-expectations.md).
+* A more detailed overview you can find in [Tasks](coaching/the-coaching-job/tasks.md) and [How to work with partners](partners-1.md)
+* And if you want to know what will happen day-by-day go to [calendar](programma/programma-remote-edition/).
+* Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaching/the-coaching-job/battle-prep.md)\*\*\*\*
 * First time, or student coach? Visit [this page for first-time coaches](coaching/the-coaching-job/first-time-coaches.md) or [this page for student coaches]()
 
 Get your practical information at [Practical: When, where, sick days, ...](coaching/attend/) and [Salary and reimbursements]().
@@ -57,10 +53,10 @@ Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info
 
 ## More questions?
 
-* Organisational questions, contact Dries Van Ransbeeck on discord, or mail [dries@openknowledge.be](mailto:dries@openknowledge.be)
-* Technical questions, contact Michiel Leyman on discord, or mail [michiel@openknowledge.be](mailto:michiel@openknowledge.be)
-* Design questions, contact Niels on discord, or mail [niels@flagship.studio](mailto:niels@flagship.studio)
-* Coaching questions, contact Miet on discord or mail [miet@openknowledge.be](mailto:miet@openknowledge.be)
+* Organisatorische vragen, contacteer Michiel Van den Berghe on discord, or mail michiel@derepubliek.be
+* Vragen over de Data, contact Steven on discord, or mail [s](mailto:michiel@openknowledge.be)teven@brugge.be
+* Wat moet ik doen vragen, Contacteer Hannes op discord, of mail hannes@nerdlab.be 
+* Coaching questions, contact Julie on discord or mail julie@ocwest.be
 
 {% hint style="info" %}
 🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
