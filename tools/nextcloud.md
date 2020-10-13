@@ -2,7 +2,7 @@
 description: We use NextCloud to store and share our files.
 ---
 
-# YouTube
+# YouTube stream
 
 Alle activiteiten waar meer dan 20 mensen tegelijk moeten aan deelnemen doen we via Youtube. Je kan volgen via de livestream en via kanaal \#stream-talk op Discord
 

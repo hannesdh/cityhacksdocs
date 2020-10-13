@@ -20,9 +20,26 @@ Door je volledige naam \(Voornaam Familienaam\) te gebruiken, ben je herkenbaard
 
 De namen van de channels omschrijven voor welk soort post ze dienen. Er zijn channels voor de volledige groep, en channels exclusief voor je team.
 
+### \#Teamnaam & Teamnaam-voice
+
+Het kanaal waar je kan spreken over jouw project met jouw team en coach. Deel wat je moet delen, daar komt niemand tussen.
+
+### \#Announcements
+
+Hier moet je zijn voor aankondigen, veranderingen of algemene belangrijkheden gemeld door de [organisatie van Cityhacks](../../partners-1.md). Goed in de gaten houden! _Je kan hier zelf geen vragen in posten._
+
+### \#All Your Questions
+
+Zoals de titel zegt: voor al je vragen rond praktische zaken maar ook technisch, design, concept, whatever.   
+Je kan dit channel ook gebruiken om andere mensen te helpen door op hun vragen te antwoorden! Extra karma punten.
+
+### \#stream-talk
+
+Deze is er om te reageren op de geweldige pitches van anderen \(en dus feedback te lezen\) of om vragen te stellen als er iemand een presenatie geeft tijdens de stream.
+
 ## Hou de communicatie "safe for work"
 
-Zoals vermeld in de [Code of Conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct), zijn berichten met een inhoud die geweld, haat, racisme, discriminatie, pornografie, of gelijkaardig, uitdragen, niet welkom in een werk omgeving. Ze hebben dus ook geen plaats op de Cityhacks communicatiekanalen.  
+Berichten met een inhoud die geweld, haat, racisme, discriminatie, pornografie, of gelijkaardig, uitdragen, niet welkom in een werk omgeving. Ze hebben dus ook geen plaats op de Cityhacks communicatiekanalen.  
 
 ## Mute je microfoon als je niet spreekt
 

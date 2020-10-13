@@ -26,7 +26,6 @@
   * [23u00 - Disney zangstonde](programma/programma-remote-edition/23u00-disney-zangstonde.md)
 * [14.11 - Pitches](programma/24.10-pitches/README.md)
   * [Hackathon pitches](programma/24.10-pitches/hackathon-pitches.md)
-  * [Extra Pitch and Interview Tips](programma/24.10-pitches/the-pitch.md)
   * [Hosting](programma/24.10-pitches/hosting.md)
   * [Interviews](programma/24.10-pitches/interviews.md)
 
@@ -38,8 +37,8 @@
   * [Je gebruikersnaam aanpassen](tools/discord/setting-your-nickname.md)
   * [Managing notifications](tools/discord/managing-notifications.md)
   * [Offering and Receiving Help](tools/discord/remote-helping.md)
-* [YouTube](tools/nextcloud.md)
-* [How to pitch!](tools/how-to-pitch.md)
+* [YouTube stream](tools/nextcloud.md)
+* [Pitch Tricks](tools/the-pitch.md)
 * [Deliver Like a Pro](tools/how-to-deliver-like-a-pro/README.md)
   * [Publish a Github Page](tools/how-to-deliver-like-a-pro/publishing-a-github-page.md)
 
