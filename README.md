@@ -37,17 +37,12 @@ See you soon!
 
 Woah, We zijn zo blij dat we op jullie mogen rekenen voor deze hackathon!
 
-Zie hier, een beetje meer details over wat je tijdens Cityhacks zal tegenknomen:
+Zie hier, een beetje meer details over wat je tijdens Cityhacks zal tegenkomen:
 
-* To get a broad idea, go to [Soft Skills & Expectations](coaching/the-coaching-job/soft-skills-and-expectations.md).
-* A more detailed overview you can find in [Tasks](coaching/the-coaching-job/tasks.md) and [How to work with partners](partners-1.md)
-* And if you want to know what will happen day-by-day go to [calendar](programma/programma-remote-edition/).
-* Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaching/the-coaching-job/battle-prep.md)\*\*\*\*
-* First time, or student coach? Visit [this page for first-time coaches](coaching/the-coaching-job/first-time-coaches.md) or [this page for student coaches]()
-
-Get your practical information at [Practical: When, where, sick days, ...](coaching/attend/) and [Salary and reimbursements]().
-
-Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
+* Heb je vragen over wat er precies gaat gebeuren? Duik in het [programma van de Cityhacks](programma/programma-remote-edition/)
+* Alle [praktische vragen over Cityhacks](coaching/attend/) - waar, wanneer en wat er precies van jou verwacht wordt.
+* Wat [de coaching job precies inhoudt en wat praktische tips hierbij om het allemaal vlot te laten verlopen](coaching/the-coaching-job/).
+* Wat [de jury belangrijk vindt](coaching/jurybeoordeling.md) - en je dus best ook leest als jullie willen winnen :\)
 
 ![](.gitbook/assets/screenshot-2020-07-01-at-00.07.34.png)
 
@@ -64,5 +59,5 @@ Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info
 You are welcome to contribute as well!
 {% endhint %}
 
-## We can't wait to see you!1!!!
+## We can't wait to see you!!!!
 
